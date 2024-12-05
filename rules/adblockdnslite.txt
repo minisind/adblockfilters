@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20241205095350
-! Last modified: 2024/12/05 09:53:50
-! Blocked domains: 5629
+! Version: 20241205163120
+! Last modified: 2024/12/05 16:31:20
+! Blocked domains: 5622
 ! unBlocked domains: 16
 !
 ||00xvppy.cn^
@@ -480,7 +480,6 @@
 ||smetrics.abercrombie.cn^
 ||abjalrq.cn^
 ||discover.absciex.com.cn^
-||disk.accord1key.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -1306,7 +1305,6 @@
 ||usps.com-trackfp.top^
 ||usps.com-trackfw.top^
 ||usps.com-trackga.top^
-||usps.com-trackge.top^
 ||usps.com-trackgh.top^
 ||usps.com-trackgi.top^
 ||usps.com-trackgj.top^
@@ -3443,7 +3441,6 @@
 ||usps.handling.packages.win^
 ||usps.postoffice.packages.win^
 ||us.usps.packageus.top^
-||usa.usps.packageus.top^
 ||xml-v4.paddlewaver.com^
 ||pagechoice.com^
 ||pagechoice.net^
@@ -4636,7 +4633,6 @@
 ||s.u7u9.com^
 ||www.u88.cn^
 ||u8ad.com^
-||wylmf.uamfc.cn^
 ||ads.uc.cn^
 ||adtrack.uc.cn^
 ||api.mp.uc.cn^
@@ -4686,7 +4682,6 @@
 ||gf.umenglog.com^
 ||a.umilu.com^
 ||umiwi.com^
-||www.umiznyb.cn^
 ||unionbig.com^
 ||unionli.com^
 ||unionsky.cn^
@@ -5539,7 +5534,6 @@
 ||zhuozhongfangshui.cn^
 ||fdfda.zhuzhai.com^
 ||zhzzx.com^
-||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
@@ -5611,7 +5605,6 @@
 ||ztcadx.com^
 ||images.mkt.zte.com.cn^
 ||ztgame.com^
-||kdtbxi.ztgtpq.cn^
 ||ztqdkzn.cn^
 ||ad.zui.com^
 ||ad.zuimeitianqi.com^
