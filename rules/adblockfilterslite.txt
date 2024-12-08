@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20241208002729
-! Last modified: 2024/12/08 00:27:29
+! Version: 20241208100026
+! Last modified: 2024/12/08 10:00:26
 ! Blocked Filters: 41866
 !
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
@@ -11747,7 +11747,6 @@
 ##.js_midbanner_ad_slot
 ##.js_movable_ad_slot
 ##.js_preheader-ad-container
-##.js_related-stories-inset
 ##.js_slideshow-full-width-ad
 ##.js_slideshow-sidebar-ad
 ##.js_sticky-top-ad
@@ -12628,7 +12627,7 @@
 ##.pcd_ad
 ##.pcgg
 ##.pd-ads-mpu
-##.pdpads_desktop
+##.pdpads
 ##.penci-ad-box
 ##.penci-ad-image
 ##.penci-ad_box
@@ -32848,6 +32847,7 @@ korall.xyz,vsttorrents.net,kropic.com,shorterall.com,javtiful.com,22pixx.xyz,por
 korben.info,alternativeto.net#%#//scriptlet('abort-current-inline-script', 'atob', '/googlefc|\.parentNode\.removeChild\(f\)/')
 kostool.cn#?#div:-abp-has(> h1:-abp-contains(推广))
 kotaku.com,qz.com###commerce-inset-wrapper
+kotaku.com,qz.com,theroot.com##.js_related-stories-inset
 kotaku.com,theonion.com,theroot.com##.taboola-container
 koty.pl,psy.pl##.portal-header + hr:empty
 koty.pl,psy.pl##.portal-top-banner
