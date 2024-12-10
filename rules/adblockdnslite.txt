@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20241210095518
-! Last modified: 2024/12/10 09:55:18
-! Blocked domains: 5356
+! Version: 20241210163139
+! Last modified: 2024/12/10 16:31:39
+! Blocked domains: 5349
 ! unBlocked domains: 15
 !
 ||00xvppy.cn^
@@ -1715,7 +1715,6 @@
 ||gbitcoin.cn^
 ||gcbflvx.cn^
 ||gccnntq.cn^
-||silbuss.gcdsz.cn^
 ||gclick.cn^
 ||gdicoou.com^
 ||gdtimg.com^
@@ -2950,7 +2949,6 @@
 ||stat.microvirt.com^
 ||apiwz.midukanshu.com^
 ||track.midway.run^
-||epplae.midwestremailer.com^
 ||app.log.nf.migu.cn^
 ||uem.migu.cn^
 ||report.migufun.com^
@@ -3264,7 +3262,6 @@
 ||royal.package-reminder-c.top^
 ||usps.packages.packagen.men^
 ||exceptions.packages.men^
-||warehould.packages.men^
 ||www.packages.men^
 ||modify.packages.win^
 ||update.packages.win^
@@ -3750,7 +3747,6 @@
 ||rmzbfum.cn^
 ||rnkzhsi.cn^
 ||kcqoej.roborock.com^
-||rockflour.cn^
 ||a.rohde-schwarz.com.cn^
 ||metrics.rolex.cn^
 ||midas.rong360.com^
@@ -4479,7 +4475,6 @@
 ||upceshop.cn^
 ||packages.updatea.men^
 ||usps.updatea.men^
-||www.updatea.men^
 ||upmahuvseoey.top^
 ||mobilelog.upqzfile.com^
 ||other.upqzfile.com^
@@ -4797,7 +4792,6 @@
 ||pvx.xcar.com.cn^
 ||zio.xcar.com.cn^
 ||52m.xde6.net^
-||yslru.xdiheu.cn^
 ||xdrig.com^
 ||180.xdwan.com^
 ||xfqynrp.cn^
@@ -5227,7 +5221,6 @@
 ||s2.zdmimg.com^
 ||zegarkirepliki.pl^
 ||zerolcp.cn^
-||zewebxwrietd.top^
 ||zg40c.cn^
 ||zgclmw.cn^
 ||yin1.zgpingshu.com^
