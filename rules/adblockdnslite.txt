@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20241223094616
-! Last modified: 2024/12/23 09:46:16
-! Blocked domains: 5631
+! Version: 20241223162900
+! Last modified: 2024/12/23 16:29:00
+! Blocked domains: 5624
 ! unBlocked domains: 16
 !
 ||00xvppy.cn^
@@ -763,6 +763,7 @@
 ||antarctic.com^
 ||api.antibanads.com^
 ||anysdk.com^
+||aogk88.asia^
 ||aoopj.top^
 ||aoqinglv.cn^
 ||app-analytics-services.com^
@@ -770,7 +771,6 @@
 ||mobile.appchina.com^
 ||appdriver.cn^
 ||appgift.sinaapp.com^
-||apple-crt-portal-online.com^
 ||iadsdk.apple.com^
 ||xp.apple.com^
 ||securemetrics.apple.com.cn^
@@ -1015,6 +1015,7 @@
 ||bangqidq.com^
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
+||a.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||cruiser.bayescom.cn^
@@ -1165,6 +1166,7 @@
 ||download.caihong.com^
 ||stat.caijing.com.cn^
 ||gg.caixin.com^
+||pinggai5.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1209,7 +1211,6 @@
 ||poubucjch.cfogh.cn^
 ||qxorlwvfcp.cfogh.cn^
 ||vzuopkqai.cfogh.cn^
-||update.cg100iii.com^
 ||cgigc.com.cn^
 ||g.chaishiguan.com^
 ||c1.chajiaotong.com^
@@ -1642,7 +1643,6 @@
 ||eeeqi.cn^
 ||eexlgyn.cn^
 ||ef9377.com^
-||canadapost-postescanada.efsi.cn^
 ||metrics.egencia.cn^
 ||eheb8.cn^
 ||ehmhqcn.cn^
@@ -1751,7 +1751,6 @@
 ||bd1.flfgw.cn^
 ||flstudiochina.com^
 ||flunion.cn^
-||pid.fly160.com^
 ||api-flow.flyme.cn^
 ||bro.flyme.cn^
 ||madx.flyme.cn^
@@ -1789,7 +1788,6 @@
 ||love.furenkeji.com^
 ||digital-global.furniture-china.cn^
 ||trk.futureelectronics.cn^
-||fwbrlnpzqqci.top^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
 ||ad.fx168api.com^
@@ -1819,7 +1817,6 @@
 ||gbitcoin.cn^
 ||gcbflvx.cn^
 ||gccnntq.cn^
-||gclick.cn^
 ||gdicoou.com^
 ||gdtimg.com^
 ||canadapost-postescanada.gdwsw.cn^
@@ -1914,6 +1911,7 @@
 ||adsense.google.cn^
 ||adservice.google.com^
 ||pagead-googlehosted.l.google.com^
+||partnerad.l.google.com^
 ||ssl-google-analytics.l.google.com^
 ||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
@@ -2030,6 +2028,7 @@
 ||js1.haoge500.com^
 ||bd.haomagujia.com^
 ||2.haory.cn^
+||by.haory.cn^
 ||mbrowser.news.haosou.com^
 ||haoweb.top^
 ||haowei.me^
@@ -2047,9 +2046,7 @@
 ||hdbaichuan.cn^
 ||jascce-coment.hdqtcy.cn^
 ||jascce-class.hdqtdb.cn^
-||jascce-member.hdqtdy.cn^
 ||jaccs-votair.hdqtnn.cn^
-||jaccs-skept.hdqtnw.cn^
 ||stat.hebnews.cn^
 ||hechaocheng.cn^
 ||ad.hefei.cc^
@@ -2329,9 +2326,7 @@
 ||www.iiyout.cn^
 ||ijgocb.cn^
 ||ijinshan.com^
-||daima.ijq.tv^
 ||a3.ikafan.com^
-||ikmya.cn^
 ||ili100.cn^
 ||ilkwork.com^
 ||smetrics.illumina.com.cn^
@@ -2371,7 +2366,6 @@
 ||qfy.innotechx.com^
 ||click.inplayable.com^
 ||inpost-vip.shop^
-||inpostt.xin^
 ||qlvzjmtg.inqku.cn^
 ||insenz.com^
 ||instreet.cn^
@@ -2873,7 +2867,6 @@
 ||sanme2.lanzoui.com^
 ||wap1.laogu.wang^
 ||wap2.laogu.wang^
-||sensors.larkplayerapp.com^
 ||images.newsletter.larksuite.com^
 ||c.lattebank.com^
 ||un1.lawyernet.cn^
@@ -3138,6 +3131,7 @@
 ||microad-cn.com^
 ||microad.jp^
 ||stat.microvirt.com^
+||pylon.micstatic.com^
 ||apiwz.midukanshu.com^
 ||track.midway.run^
 ||app.log.nf.migu.cn^
@@ -3264,7 +3258,6 @@
 ||c.msn.com.cn^
 ||advert.mting.info^
 ||x.mtrend.cn^
-||mtxympc.cn^
 ||www.mubiao-vpassz.top^
 ||smart.789.image.mucang.cn^
 ||mulanphone.cn^
@@ -3314,8 +3307,6 @@
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
 ||logs.nandu.com^
-||1.nanrenwo.net^
-||fp.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
 ||dl.natgo.cn^
 ||nbfieef.cn^
@@ -3369,7 +3360,6 @@
 ||nqlng.cn^
 ||olx-pol-kxlsw2.nrjdjh.top^
 ||nrjzkj.cn^
-||nrmjq.cn^
 ||nryqr.cn^
 ||c.ns8d.com^
 ||marketing.nsfocus.com^
@@ -4074,7 +4064,6 @@
 ||js.shunqi.com^
 ||www.shuqw.com^
 ||shuzilm.cn^
-||icloud.apple-preter.shyligs.cn^
 ||sigmob.com^
 ||siguatv.cn^
 ||sigulacuo.cn^
@@ -4173,7 +4162,6 @@
 ||sjezce.xyz^
 ||www.sjheda.cn^
 ||static.m.sjzhushou.com^
-||sljkj.com^
 ||m.slshiye.cn^
 ||sm-tc.cn^
 ||c.sm.cn^
@@ -4485,7 +4473,11 @@
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
 ||inpost-pl-pacid273jks.tejiamai.top^
+||teleegarsm.cn^
 ||teleeqrwm.cn^
+||telegcpqm.cn^
+||telegrpqm.cn^
+||telegzpqm.cn^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -5268,6 +5260,7 @@
 ||oimagea2.ydstatic.com^
 ||bdm.ye-su.cn^
 ||ir.mail.yeah.net^
+||yeahmobi.com^
 ||abc.yebaike.com^
 ||ncz.yeepay.com^
 ||a.yellowurl.cn^
