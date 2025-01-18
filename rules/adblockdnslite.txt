@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250118093823
-! Last modified: 2025/01/18 09:38:23
+! Version: 20250118162441
+! Last modified: 2025/01/18 16:24:41
 ! Blocked domains: 5541
 ! unBlocked domains: 16
 !
@@ -394,6 +394,7 @@
 ||www.6kwan.com^
 ||sclick.6rooms.com^
 ||6v6.work^
+||6vj3du75j.top^
 ||trail.71baomu.com^
 ||bdcdncmn-gd.inter.71edge.com^
 ||blog.770880520.xyz^
@@ -724,6 +725,7 @@
 ||log3-misc-lf.amemv.com^
 ||log3-misc-lq.amemv.com^
 ||log5-misc-lf.amemv.com^
+||log5-misc-lq.amemv.com^
 ||metrics.americanairlines.cn^
 ||amerzbj.cn^
 ||v.api.amgmedia.cn^
@@ -735,6 +737,7 @@
 ||antarctic.com^
 ||api.antibanads.com^
 ||anysdk.com^
+||aogk88.asia^
 ||aoopj.top^
 ||aoqinglv.cn^
 ||app-analytics-services.com^
@@ -1132,6 +1135,7 @@
 ||download.caihong.com^
 ||apollo.caixin.com^
 ||gg.caixin.com^
+||pinggai5.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1204,7 +1208,6 @@
 ||rankhit.china.com^
 ||sssvd.china.com^
 ||union.china.com.cn^
-||chinaapper.com^
 ||adpic.chinadaily.com.cn^
 ||same.chinadaily.com.cn^
 ||usercollection.chinadaily.com.cn^
@@ -1219,6 +1222,7 @@
 ||cholo101.cn^
 ||cholo215.cn^
 ||cholor201115.cn^
+||chongcidiyi38.vip^
 ||chshcms.net^
 ||config.chsmarttv.com^
 ||data.chsmarttv.com^
@@ -1315,7 +1319,6 @@
 ||coreldrawchina.com^
 ||course-forge.com^
 ||adt.cpatrk.net^
-||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
 ||cpc.cc^
@@ -1624,6 +1627,7 @@
 ||eheb8.cn^
 ||ehmhqcn.cn^
 ||m.ehwhwz.cn^
+||ehxyz.com^
 ||ejfeng.com^
 ||pcmn.orico-teleoai.ejwfg.cn^
 ||adashx.ut.ele.me^
@@ -1648,6 +1652,7 @@
 ||epaes.com.cn^
 ||lib.eqh5.com^
 ||eavs02.eqifa.com^
+||eqlidke.cn^
 ||eqqi.cn^
 ||m.ercos.cn^
 ||log.ergeduoduo.com^
@@ -1663,7 +1668,6 @@
 ||ewjhic.cn^
 ||ewxufqs.cn^
 ||a.exam58.com^
-||excsyrv.cn^
 ||exevcl.cn^
 ||ad.exyws.org^
 ||eyouv.cn^
@@ -1672,7 +1676,6 @@
 ||c1313.f28014.cn^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
-||fabu333.top^
 ||fakjkwp.cn^
 ||z2.fakutownee.cn^
 ||falal.cn^
@@ -1816,11 +1819,13 @@
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
 ||gfrzzzx.cn^
+||ggdumze.cn^
 ||ggmm777.com^
 ||nochange.ggsafe.com^
 ||zxcs.ggwan.com^
 ||jy.ggweb.net^
 ||shqdown.ggzuhao.com^
+||gh-hr.cn^
 ||stats.dmp.ghac.cn^
 ||ad.partner.gifshow.com^
 ||gdfp.gifshow.com^
@@ -1888,9 +1893,9 @@
 ||ads.google.cn^
 ||adsense.google.cn^
 ||adservice.google.com^
+||googleadapis.l.google.com^
 ||pagead-googlehosted.l.google.com^
 ||ssl-google-analytics.l.google.com^
-||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||clickserver.googleads.com^
@@ -1957,7 +1962,6 @@
 ||a.guzhilin.com^
 ||guzsjdl.cn^
 ||gw2cddpt2hao.asia^
-||gw2cddpt2hao.cloud^
 ||gwmrb.cn^
 ||gwrpceo.cn^
 ||fpb1.gxfin.com^
@@ -1989,6 +1993,7 @@
 ||tj.haiwainet.cn^
 ||haixiutv.com^
 ||mo.haloapps.cn^
+||haloapps.com^
 ||adx.halomobi.com^
 ||g.haluoha.com^
 ||hanaa.cn^
@@ -2426,6 +2431,7 @@
 ||s.jandan.com^
 ||a3.jandan.net^
 ||b3.jandan.net^
+||files.jb51.net^
 ||icws.jb51.net^
 ||jscode.jbzj.com^
 ||jsjs.jbzj.com^
@@ -2513,7 +2519,6 @@
 ||app.jiuzhilan.com^
 ||jj123.com.cn^
 ||jjyx.com^
-||saisancard.customer-support.netanswer.jkdyinxin.cn^
 ||jknrwe.cn^
 ||jlifm.org.cn^
 ||jmgehn.cn^
@@ -2536,7 +2541,6 @@
 ||jsing.net^
 ||fpb1.jsq886.com^
 ||jszctech.com^
-||jiaoben.jucanw.com^
 ||jugao.com^
 ||junshi8181.com^
 ||y1.junshitt.com^
@@ -2603,7 +2607,6 @@
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
-||affiliate.klook.com^
 ||tjjs.km.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
@@ -3499,7 +3502,6 @@
 ||pp2.pptv.com^
 ||static.g.pptv.com^
 ||tj.g.pptv.com^
-||pqjprom.cn^
 ||pqzjki.cn^
 ||prlioxb.cn^
 ||1.proewildfire.cn^
@@ -3527,7 +3529,6 @@
 ||cdn.pyadx.com^
 ||pypwxvo.cn^
 ||pzkrgcp.cn^
-||q02orc.cn^
 ||www.q4ee.top^
 ||q9y39.cn^
 ||qbdgame.com^
@@ -3857,6 +3858,7 @@
 ||r75tia.cn^
 ||a2.rabbitpre.com^
 ||event.raise3d.cn^
+||rayjump.com^
 ||rbioclv.cn^
 ||rbrbr88p.cn^
 ||rcaig.cn^
@@ -3945,7 +3947,6 @@
 ||dm.sanwen8.com^
 ||saxysec.com^
 ||sbird.xyz^
-||script302.top^
 ||statscollector.sd-rtn.com^
 ||sd6hon.cn^
 ||sdgreg.cn^
@@ -4236,6 +4237,7 @@
 ||steamproxy.net^
 ||stg8.com^
 ||stgowan.com^
+||stnew.xyz^
 ||info.stockstar.com^
 ||same.stockstar.com^
 ||studylabs.cn^
@@ -4249,13 +4251,11 @@
 ||dcbpm.suning.cn^
 ||sa.suning.cn^
 ||adls.suning.com^
-||dfp.suning.com^
 ||mmds.suning.com^
 ||oss.suning.com^
 ||ossup.suning.com^
 ||ssac.suning.com^
 ||tad.suning.com^
-||th.suning.com^
 ||sunriseoutdoor.cn^
 ||suo.im^
 ||superads.cn^
@@ -4553,7 +4553,6 @@
 ||md.tvzhe.com^
 ||mi.tvzhe.com^
 ||twh5.com^
-||twibbi.com^
 ||twjsx.cn^
 ||tb.code.twyxi.com^
 ||twzui6.com^
@@ -4883,6 +4882,7 @@
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wmmax.com^
+||bdjiaoben.wmxa.cn^
 ||wn68din.cn^
 ||wndj.net^
 ||www.wndlkj.com^
