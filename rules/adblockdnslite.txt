@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250201094638
-! Last modified: 2025/02/01 09:46:38
-! Blocked domains: 5029
+! Version: 20250201162512
+! Last modified: 2025/02/01 16:25:12
+! Blocked domains: 5023
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -298,7 +298,6 @@
 ||v16.56.com^
 ||www.56.com^
 ||3.5646.cn^
-||dl.1003b.56a.com^
 ||56fba.cn^
 ||adshow.58.com^
 ||brandshow.58.com^
@@ -633,6 +632,7 @@
 ||antarctic.com^
 ||api.antibanads.com^
 ||anysdk.com^
+||aogk88.asia^
 ||aoqinglv.cn^
 ||app-analytics-services.com^
 ||app-measurement.com^
@@ -651,7 +651,6 @@
 ||adx.appsdk.com.cn^
 ||appsdt.com^
 ||appuu.cn^
-||static.appbox.apuslauncher.com^
 ||www.aqianniao.com^
 ||vinted-pl-gj32d.aqiwen.top^
 ||a.armystar.com^
@@ -868,6 +867,7 @@
 ||q.baminw.com.cn^
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
+||resource.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||baycode.cn^
@@ -1161,7 +1161,6 @@
 ||coreldrawchina.com^
 ||course-forge.com^
 ||adt.cpatrk.net^
-||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
 ||global.cphi-china.cn^
@@ -1237,7 +1236,6 @@
 ||dazhantai.com^
 ||t188.dazhonghua.cn^
 ||bdjs.daziba.cn^
-||cs02-pps-drcn.dbankcdn.com^
 ||grs.dbankcloud.asia^
 ||adx-drcn.op.dbankcloud.cn^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -1353,7 +1351,6 @@
 ||dssdfsf.cn^
 ||dtckvpc.cn^
 ||dtoitw.cn^
-||royalmail.dtxs.xyz^
 ||agentchannel.api.duapp.com^
 ||channel.api.duapp.com^
 ||bu1.duba.com^
@@ -1401,6 +1398,7 @@
 ||u.dxsvr.com^
 ||adsdkapi.dxys.pro^
 ||fumiad.dxys.pro^
+||a.dxzy163.com^
 ||dycwt.cn^
 ||a.dyjqd.com^
 ||by.dyq.cn^
@@ -1408,6 +1406,7 @@
 ||dzfkxq.cn^
 ||ad.dzwww.com^
 ||app.acm.dzwww.com^
+||e4l4.com^
 ||stat.ea3w.com^
 ||eagle-tex.cn^
 ||api.eagllwin.com^
@@ -1699,9 +1698,7 @@
 ||adsense.google.cn^
 ||adservice.google.com^
 ||pagead-googlehosted.l.google.com^
-||partnerad.l.google.com^
 ||ssl-google-analytics.l.google.com^
-||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||clickserver.googleads.com^
@@ -1766,6 +1763,7 @@
 ||a.guzhilin.com^
 ||guzsjdl.cn^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||gwmrb.cn^
 ||gwrpceo.cn^
 ||gxgbvmg.cn^
@@ -1790,7 +1788,6 @@
 ||tj.haiwainet.cn^
 ||haixiutv.com^
 ||mo.haloapps.cn^
-||haloapps.com^
 ||g.haluoha.com^
 ||go.hangzhou.com.cn^
 ||hanlanad.com^
@@ -1903,6 +1900,7 @@
 ||hjpqt.cn^
 ||www.smbc-card.ceter.hlktnk.cn^
 ||wwwv.smbc-card.vend.hlktrx.cn^
+||adminuser.hlntqr.cn^
 ||www.smbc-card.whoor.hlwtts.cn^
 ||www.smbc-card.creitive.hlwttx.cn^
 ||www.smbc-card.tomoon.hlwtty.cn^
@@ -1956,7 +1954,6 @@
 ||adlink-api.huan.tv^
 ||ads.huan.tv^
 ||download.changhong.upgrade2.huan.tv^
-||downloadxml.changhong.upgrade2.huan.tv^
 ||livemonitor.huan.tv^
 ||log.appstore3.huan.tv^
 ||monitor-ads-test.huan.tv^
@@ -2347,9 +2344,7 @@
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
-||affiliate.klook.com^
 ||kmgfjc.cn^
-||kmhmyaj.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmpxq.cn^
 ||kmzayrt.cn^
@@ -2555,7 +2550,6 @@
 ||sanme2.lanzoui.com^
 ||wap1.laogu.wang^
 ||wap2.laogu.wang^
-||sensors.larkplayerapp.com^
 ||images.newsletter.larksuite.com^
 ||un1.lawyernet.cn^
 ||g.lazcdn.com^
@@ -2563,7 +2557,6 @@
 ||cdn1.lbesec.com^
 ||pscdn1.lbesec.com^
 ||lbprjdi.cn^
-||cuiehfwvfy.lbqxi.cn^
 ||fbmnovbqf.lbqxi.cn^
 ||rxuuy.lbqxi.cn^
 ||lccfjszp.cn^
@@ -2634,6 +2627,7 @@
 ||lishuaibin.cn^
 ||litchiads.com^
 ||v88.live800.com^
+||a.llysc.cn^
 ||lm665.com^
 ||bffbdo.lmsae.cn^
 ||lmwmm.com^
@@ -2654,6 +2648,7 @@
 ||lowadec.cn^
 ||lpmzt.cn^
 ||lrswl.com^
+||ny.lshdw.cc^
 ||a1.lshou.com^
 ||lshuaibin.cn^
 ||lufax.com^
@@ -2698,6 +2693,7 @@
 ||stat-c.maxthon.com^
 ||ad.mazc.org^
 ||mbai.cn^
+||mbxsku.cn^
 ||cdns.mbxt.net^
 ||kti.mcjjsdhfg.cn^
 ||mcleaner.cn^
@@ -2923,7 +2919,6 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
-||nsabiu.myshoplaza.com^
 ||saadsfds7.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
@@ -2936,6 +2931,7 @@
 ||aries.mzres.com^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
+||fp.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
 ||dl.natgo.cn^
 ||nbfieef.cn^
@@ -2975,7 +2971,6 @@
 ||nlyuuy.cn^
 ||nmgyllh.cn^
 ||nmrdnqn.cn^
-||tracking.novabeyond.com^
 ||web.novogene.com^
 ||a.nowscore.com^
 ||z.nowscore.com^
@@ -3002,6 +2997,7 @@
 ||www.nvshenfan.com^
 ||anews7.nvwu.com^
 ||nzydzsw.com^
+||oaclrst.cn^
 ||oadz.com^
 ||analytics.oceanengine.com^
 ||oewtuho.cn^
@@ -3475,6 +3471,7 @@
 ||hades.qyer.com^
 ||qzorwe.xyz^
 ||r75tia.cn^
+||a2.rabbitpre.com^
 ||event.raise3d.cn^
 ||rayjump.com^
 ||rbioclv.cn^
@@ -3521,7 +3518,6 @@
 ||static.rongkao.com^
 ||rosettahome.cn^
 ||rpahyhn.cn^
-||rpkcqtf.cn^
 ||rptegnf.cn^
 ||rsvqlz.cn^
 ||rtbasia.com^
@@ -3648,7 +3644,6 @@
 ||adm.leju.sina.com.cn^
 ||beacon.sina.com.cn^
 ||counter.sina.com.cn^
-||cpoml.iask.sina.com.cn^
 ||cre.mix.sina.com.cn^
 ||d0.sina.com.cn^
 ||d00.sina.com.cn^
@@ -3987,7 +3982,6 @@
 ||telepzow.cn^
 ||teleqrezm.cn^
 ||teleqvom.cn^
-||teleqxem.cn^
 ||televpqm.cn^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
@@ -4099,7 +4093,6 @@
 ||tudou.com^
 ||tudxhzj.cn^
 ||go.tuev.cn^
-||tuhzjrr.cn^
 ||tuia.cn^
 ||activity.tuiapple.com^
 ||activity.tuifish.com^
@@ -4274,7 +4267,6 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
-||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -4436,6 +4428,7 @@
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wmmax.com^
+||bdjiaoben.wmxa.cn^
 ||wn68din.cn^
 ||www.wndlkj.com^
 ||wo1818.cn^
@@ -4597,6 +4590,7 @@
 ||c.xingjuhe.com^
 ||ichc1.xinglinpukang.com^
 ||www.xingpingmaoyi.cn^
+||a2.xinhuanet.com^
 ||imgs.xinhuanet.com^
 ||tongji.xinmin.cn^
 ||www2.xinmin.cn^
