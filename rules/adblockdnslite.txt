@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250203094300
-! Last modified: 2025/02/03 09:43:00
-! Blocked domains: 5031
+! Version: 20250203162837
+! Last modified: 2025/02/03 16:28:37
+! Blocked domains: 5030
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -126,7 +126,6 @@
 ||tz.1688988.com^
 ||cvda.17173.com^
 ||log1.17173.com^
-||stat.v.17173.com^
 ||vda.17173.com^
 ||s.17173cdn.com^
 ||trk1.17admob.com^
@@ -611,14 +610,11 @@
 ||dualstack-logs.amap.com^
 ||logs.amap.com^
 ||optimus-ads.amap.com^
-||amazon8828.cc^
 ||log.amemv.com^
 ||log0-misc-alinc2.amemv.com^
-||log0-misc-lf.amemv.com^
 ||log0-misc-lq.amemv.com^
 ||log3-misc-lf.amemv.com^
 ||log3-misc-lq.amemv.com^
-||log5-misc-lf.amemv.com^
 ||log5-misc-lq.amemv.com^
 ||metrics.americanairlines.cn^
 ||amerzbj.cn^
@@ -632,7 +628,6 @@
 ||antarctic.com^
 ||api.antibanads.com^
 ||anysdk.com^
-||aogk88.asia^
 ||aoqinglv.cn^
 ||app-analytics-services.com^
 ||app-measurement.com^
@@ -651,6 +646,7 @@
 ||adx.appsdk.com.cn^
 ||appsdt.com^
 ||appuu.cn^
+||static.appbox.apuslauncher.com^
 ||www.aqianniao.com^
 ||vinted-pl-gj32d.aqiwen.top^
 ||a.armystar.com^
@@ -896,7 +892,6 @@
 ||wenku-cms.bj.bcebos.com^
 ||httpdns.bcelive.com^
 ||bcglkfu.cn^
-||hlog.bclugu.com^
 ||bd0n59.cn^
 ||bdhcpll.cn^
 ||ecma.bdimg.com^
@@ -917,6 +912,7 @@
 ||smetrics.benefitcosmetics.com.cn^
 ||www.benmoj.com^
 ||berlinchans.com^
+||better.com.np^
 ||betterzip.net^
 ||betterzipcn.com^
 ||betylife.com^
@@ -972,7 +968,6 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
-||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
@@ -1277,6 +1272,7 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
+||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||d.dgzj.com^
@@ -1700,6 +1696,7 @@
 ||adservice.google.com^
 ||pagead-googlehosted.l.google.com^
 ||ssl-google-analytics.l.google.com^
+||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||clickserver.googleads.com^
@@ -1764,7 +1761,6 @@
 ||a.guzhilin.com^
 ||guzsjdl.cn^
 ||gw2cddpt2hao.asia^
-||gw2cddpt2hao.cloud^
 ||gwmrb.cn^
 ||gwrpceo.cn^
 ||gxgbvmg.cn^
@@ -1789,6 +1785,7 @@
 ||tj.haiwainet.cn^
 ||haixiutv.com^
 ||mo.haloapps.cn^
+||haloapps.com^
 ||g.haluoha.com^
 ||go.hangzhou.com.cn^
 ||hanlanad.com^
@@ -2062,7 +2059,7 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
-||daima.ijq.tv^
+||lm.ijq.tv^
 ||ili100.cn^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -2563,6 +2560,7 @@
 ||cdn1.lbesec.com^
 ||pscdn1.lbesec.com^
 ||lbprjdi.cn^
+||cuiehfwvfy.lbqxi.cn^
 ||fbmnovbqf.lbqxi.cn^
 ||rxuuy.lbqxi.cn^
 ||lccfjszp.cn^
@@ -2906,6 +2904,7 @@
 ||m.mxguan.com^
 ||api.wx.my7v.com^
 ||apiyd.my91app.com^
+||iuou.myadobe.cn^
 ||s.dd.myapp.com^
 ||mycleanmymac.com^
 ||cdn.adm.myhayo.com^
@@ -2926,10 +2925,6 @@
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||saadsfds7.myshoplaza.com^
-||salewashop-pl.myshoplaza.com^
-||salewashopiing.myshoplaza.com^
-||salewashopping.myshoplaza.com^
-||zeemlight.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -2941,6 +2936,7 @@
 ||aries.mzres.com^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
+||1.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
 ||dl.natgo.cn^
 ||nbfieef.cn^
@@ -3184,7 +3180,9 @@
 ||puqer.cn^
 ||ums.pushpia.cn^
 ||ssp.putaojiu.com^
+||apple.pvxt.net^
 ||dm.pw0.cn^
+||pw2ct1.asia^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
 ||pypwxvo.cn^
@@ -4037,6 +4035,7 @@
 ||ip.tianqiapi.com^
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
+||tianshidun.cn^
 ||api-ads.tiantianqutao.com^
 ||tianyinsoft.top^
 ||adx-bid.tianzhuobj.com^
@@ -4263,7 +4262,6 @@
 ||wwwv.smbc-card.gadzooks.vcvos.cn^
 ||vegaschina.cn^
 ||venace.cn^
-||veronicablog.top^
 ||g.analytics.versa-ai.com^
 ||serconsole.vicp.cc^
 ||goldbye.vicp.net^
@@ -4277,6 +4275,7 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
+||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -4441,7 +4440,6 @@
 ||wn68din.cn^
 ||www.wndlkj.com^
 ||wo1818.cn^
-||womgl.cn^
 ||analytics.wondershare.cc^
 ||event.wondershare.com^
 ||go.pardot.wondershare.com^
@@ -4693,6 +4691,7 @@
 ||oimagea2.ydstatic.com^
 ||bdm.ye-su.cn^
 ||ir.mail.yeah.net^
+||yeahmobi.com^
 ||abc.yebaike.com^
 ||ncz.yeepay.com^
 ||a.yellowurl.cn^
