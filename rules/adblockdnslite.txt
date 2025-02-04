@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250204094206
-! Last modified: 2025/02/04 09:42:06
-! Blocked domains: 5030
+! Version: 20250204162750
+! Last modified: 2025/02/04 16:27:50
+! Blocked domains: 5012
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -126,6 +126,7 @@
 ||tz.1688988.com^
 ||cvda.17173.com^
 ||log1.17173.com^
+||stat.v.17173.com^
 ||vda.17173.com^
 ||s.17173cdn.com^
 ||trk1.17admob.com^
@@ -399,7 +400,6 @@
 ||smetrics.abercrombie.cn^
 ||abjalrq.cn^
 ||discover.absciex.com.cn^
-||disk.accord1key.cn^
 ||apilog-web.acfun.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
@@ -612,9 +612,11 @@
 ||optimus-ads.amap.com^
 ||log.amemv.com^
 ||log0-misc-alinc2.amemv.com^
+||log0-misc-lf.amemv.com^
 ||log0-misc-lq.amemv.com^
 ||log3-misc-lf.amemv.com^
 ||log3-misc-lq.amemv.com^
+||log5-misc-lf.amemv.com^
 ||log5-misc-lq.amemv.com^
 ||metrics.americanairlines.cn^
 ||amerzbj.cn^
@@ -628,6 +630,7 @@
 ||antarctic.com^
 ||api.antibanads.com^
 ||anysdk.com^
+||aogk88.asia^
 ||aoqinglv.cn^
 ||app-analytics-services.com^
 ||app-measurement.com^
@@ -863,7 +866,7 @@
 ||q.baminw.com.cn^
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
-||resource.baomihua.com^
+||a.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||baycode.cn^
@@ -1119,7 +1122,6 @@
 ||count.cnblogs.com^
 ||adm.cloud.cnfol.com^
 ||abcd.cnhuoche.com^
-||hmjs.cnmo-img.com.cn^
 ||icon.cnmo.com^
 ||webcert.cnmstl.net^
 ||smuc.cnnfootballclub.com^
@@ -1272,7 +1274,6 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
-||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||d.dgzj.com^
@@ -1296,7 +1297,6 @@
 ||dnyzbp.cn^
 ||do-global.com^
 ||info.meihua.docer.com^
-||zx.docin.com^
 ||doglobal.net^
 ||ads.doit.com.cn^
 ||domob.cn^
@@ -1543,6 +1543,7 @@
 ||flash.cn^
 ||bd1.flfgw.cn^
 ||flstudiochina.com^
+||pid.fly160.com^
 ||api-flow.flyme.cn^
 ||bro.flyme.cn^
 ||t-e.flyme.cn^
@@ -1907,7 +1908,6 @@
 ||hnltcw.com^
 ||hnnzwhyy.com^
 ||protection.hnpolice.com^
-||hnuniversal.com^
 ||ad.holaq.com^
 ||pay.holaq.com^
 ||smetrics.hollisterco.cn^
@@ -2059,7 +2059,6 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
-||lm.ijq.tv^
 ||ili100.cn^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -2092,6 +2091,7 @@
 ||innity.net^
 ||gw.innotechx.com^
 ||click.inplayable.com^
+||ixvdfqi.inqku.cn^
 ||ainu.intel.cn^
 ||elqtrk.intel.cn^
 ||starget.intel.cn^
@@ -2216,7 +2216,6 @@
 ||orbit.jd.com^
 ||policy.jd.com^
 ||skdisplay.jd.com^
-||stat.m.jd.com^
 ||u-x.jd.com^
 ||union.m.jd.com^
 ||uranus.jd.com^
@@ -2339,6 +2338,7 @@
 ||moupdate1.kingsoft-office-service.com^
 ||up.wps.kingsoft.com^
 ||kinleung.cn^
+||kiophsx9.sa.com^
 ||smetrics.kioxia.com.cn^
 ||kivo.fun^
 ||wwwv.smbc-card.pitith.kjkjtdwh.cn^
@@ -2461,6 +2461,9 @@
 ||dw-collect.ksosoft.com^
 ||dw-online.ksosoft.com^
 ||ic.ksosoft.com^
+||mdbquj.ksoyw.cn^
+||nddmukby.ksoyw.cn^
+||xldqxwdmew.ksoyw.cn^
 ||api.kingdata.ksyun.com^
 ||hdns.ksyun.com^
 ||kszvmqo.cn^
@@ -2552,7 +2555,6 @@
 ||sanme2.lanzoui.com^
 ||wap1.laogu.wang^
 ||wap2.laogu.wang^
-||sensors.larkplayerapp.com^
 ||images.newsletter.larksuite.com^
 ||un1.lawyernet.cn^
 ||g.lazcdn.com^
@@ -2936,9 +2938,7 @@
 ||aries.mzres.com^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
-||1.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||nbfieef.cn^
 ||nbilaser.com^
 ||ncfws.cn^
@@ -3182,7 +3182,6 @@
 ||ssp.putaojiu.com^
 ||apple.pvxt.net^
 ||dm.pw0.cn^
-||pw2ct1.asia^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
 ||pypwxvo.cn^
@@ -3479,6 +3478,7 @@
 ||r75tia.cn^
 ||a2.rabbitpre.com^
 ||event.raise3d.cn^
+||rayjump.com^
 ||rbioclv.cn^
 ||rbrbr88p.cn^
 ||rcqqlwb.cn^
@@ -3589,7 +3589,6 @@
 ||wwwv.smbc-card.harmonize.sfhzl.cn^
 ||track.sgdmobile.com^
 ||sglyd.cn^
-||ini.sh-pp.com^
 ||eywvko.shaddy.jp^
 ||js.shangxueba.com^
 ||shankejingling.com^
@@ -3644,25 +3643,16 @@
 ||ads.sina.com^
 ||pfpip.sina.com^
 ||ad2.sina.com.cn^
-||ad3.sina.com.cn^
-||ad4.sina.com.cn^
 ||adbox.sina.com.cn^
 ||adm.leju.sina.com.cn^
 ||beacon.sina.com.cn^
 ||counter.sina.com.cn^
 ||cpoml.iask.sina.com.cn^
 ||cre.mix.sina.com.cn^
-||d0.sina.com.cn^
 ||d00.sina.com.cn^
 ||d1.sina.com.cn^
-||d2.sina.com.cn^
-||d3.sina.com.cn^
-||d4.sina.com.cn^
 ||d5.sina.com.cn^
-||d6.sina.com.cn^
 ||d7.sina.com.cn^
-||d8.sina.com.cn^
-||d9.sina.com.cn^
 ||dcads.sina.com.cn^
 ||emarketing.sina.com.cn^
 ||int.dpool.sina.com.cn^
@@ -3685,7 +3675,6 @@
 ||hits.sinajs.cn^
 ||newspush.sinajs.cn^
 ||rs.sinajs.cn^
-||simg.sinajs.cn^
 ||sinawap.com^
 ||mail.siom.ac.cn^
 ||sitebot.cn^
@@ -3824,6 +3813,7 @@
 ||steamproxy.net^
 ||stg8.com^
 ||stgowan.com^
+||stnew.xyz^
 ||info.stockstar.com^
 ||same.stockstar.com^
 ||studylabs.cn^
@@ -3976,17 +3966,14 @@
 ||metrics.teamviewer.cn^
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
-||inpost-pl-pacid273jks.tejiamai.top^
 ||teleagrme.cn^
 ||teleaprme.cn^
-||telegrpqm.cn^
 ||telegrpzn.cn^
 ||telegvim.cn^
 ||telegvpqm.cn^
 ||telegzpqm.cn^
 ||telepcvne.cn^
 ||telepzow.cn^
-||teleqrezm.cn^
 ||teleqvom.cn^
 ||televpqm.cn^
 ||telezgrme.cn^
@@ -4223,9 +4210,7 @@
 ||utywsi.cn^
 ||dl.uu.cc^
 ||in1.feed.uu.cc^
-||uu22112.com^
 ||uu22662.com^
-||uu593.com^
 ||uugaa.com^
 ||526d.uunice.com^
 ||526dimg.uunice.com^
@@ -4275,7 +4260,6 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
-||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -4329,7 +4313,6 @@
 ||voiceads.cn^
 ||dev.voicecloud.cn^
 ||log.voicecloud.cn^
-||inpost-pl-my-id2g3ys.voip1.top^
 ||httpdns.volcengineapi.com^
 ||apmplus.ap-southeast-1.volces.com^
 ||mssdk.volces.com^
@@ -4397,7 +4380,6 @@
 ||dp.im.weibo.cn^
 ||gw5.push.mcp.weibo.cn^
 ||ad.weibo.com^
-||adimg.uve.weibo.com^
 ||alitui.weibo.com^
 ||sdkapp.uve.weibo.com^
 ||tui.weibo.com^
