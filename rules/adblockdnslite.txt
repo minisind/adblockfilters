@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250217094716
-! Last modified: 2025/02/17 09:47:16
-! Blocked domains: 4973
+! Version: 20250217162956
+! Last modified: 2025/02/17 16:29:56
+! Blocked domains: 4976
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -866,7 +866,6 @@
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
 ||a.baomihua.com^
-||djs.baomihua.com^
 ||resource.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
@@ -968,7 +967,6 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
-||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
@@ -989,7 +987,7 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||download.caihong.com^
-||pinggai5.caixin.com^
+||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1207,6 +1205,7 @@
 ||dadde.cn^
 ||daddq.cn^
 ||js1.dadiniu.cn^
+||dadzz.cn^
 ||daede.cn^
 ||dafdf.cn^
 ||dakawm.cc^
@@ -2040,6 +2039,8 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
+||daima.ijq.tv^
+||lm.ijq.tv^
 ||ili100.cn^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -2244,6 +2245,7 @@
 ||jj123.com.cn^
 ||img.jjiv.top^
 ||jjjcyjj.cn^
+||jknrwe.cn^
 ||jlifm.org.cn^
 ||jmgehn.cn^
 ||www.jmine.cn^
@@ -2321,6 +2323,7 @@
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
+||affiliate.klook.com^
 ||kmgfjc.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmihknj.cn^
@@ -2606,6 +2609,7 @@
 ||lishuaibin.cn^
 ||litchiads.com^
 ||v88.live800.com^
+||aeon.co.jp.ultimac.lkvya.cn^
 ||a.llysc.cn^
 ||bffbdo.lmsae.cn^
 ||lmwmm.com^
@@ -2728,7 +2732,6 @@
 ||tracking.m.mercedes-benz.com.cn^
 ||tracking.t.mercedes-benz.com.cn^
 ||a.mfcad.net^
-||1.mgff.com^
 ||mgivkqk.cn^
 ||mgs123.com^
 ||cdn.cmop.mgtv.com^
@@ -2892,6 +2895,7 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
+||saadsfds7.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -3149,6 +3153,8 @@
 ||www.q4ee.top^
 ||q8q.icu^
 ||qbdgame.com^
+||139520.aioc.qbgxl.com^
+||912648.aioc.qbgxl.com^
 ||www.qchannel01.cn^
 ||www.qchannel04.cn^
 ||log.qvb.qcloud.com^
@@ -3161,7 +3167,6 @@
 ||qfcdgy.cn^
 ||qguwoq.cn^
 ||top.h.qhimg.com^
-||qhocciks.com^
 ||m.qhxcdmfj.cn^
 ||qhxtzwf.cn^
 ||qianka.com^
@@ -3771,6 +3776,7 @@
 ||y1.spreton.com^
 ||olx-pol-kxlsw2.spz24.top^
 ||sq59.cn^
+||srbzw.cn^
 ||show.ssports.com^
 ||3.ssqzj.com^
 ||stargame.com^
@@ -3935,7 +3941,6 @@
 ||metrics.teamviewer.cn^
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
-||paypay-ne.teehouse.cn^
 ||inpost-pl-pacid273jks.tejiamai.top^
 ||teleagrme.cn^
 ||telegrpzn.cn^
@@ -4225,6 +4230,7 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
+||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -4617,7 +4623,6 @@
 ||stat.xywy.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
-||xz0205.cn^
 ||vinted-pl-gj32d.xz5.xyz^
 ||cp.xz6.com^
 ||xz618.com^
@@ -4775,9 +4780,7 @@
 ||izoghj.yoxnx.cn^
 ||lsaseu.yoxnx.cn^
 ||mqyly.yoxnx.cn^
-||ostww.yoxnx.cn^
 ||ujhqmwfpw.yoxnx.cn^
-||wihcxtzwre.yoxnx.cn^
 ||yzfdf.yoxnx.cn^
 ||atm.yoyi.com.cn^
 ||h.sora.yoyi.com.cn^
