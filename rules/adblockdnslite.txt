@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250218094328
-! Last modified: 2025/02/18 09:43:28
-! Blocked domains: 4975
+! Version: 20250218162837
+! Last modified: 2025/02/18 16:28:37
+! Blocked domains: 4978
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -204,6 +204,7 @@
 ||mclean.lato.cloud.360safe.com^
 ||mclean.uk.cloud.360safe.com^
 ||mvconf.cloud.360safe.com^
+||mvconf.lato.cloud.360safe.com^
 ||mvconf.uk.cloud.360safe.com^
 ||stat.360safe.com^
 ||update.360safe.com^
@@ -460,6 +461,7 @@
 ||statscollector-1.agora.io^
 ||tracking.agora.io^
 ||ssb.ah499.com^
+||aigdxjcdg.cn^
 ||aihaoduo.cn^
 ||www.aihuishou.com^
 ||m.ailezhai.cn^
@@ -632,7 +634,6 @@
 ||anysdk.com^
 ||aoqinglv.cn^
 ||us-behavior.apitd.net^
-||app-analytics-services.com^
 ||app-measurement.com^
 ||mobile.appchina.com^
 ||appdriver.cn^
@@ -894,6 +895,7 @@
 ||wenku-cms.bj.bcebos.com^
 ||httpdns.bcelive.com^
 ||bcglkfu.cn^
+||m.bchchk.cn^
 ||bd0n59.cn^
 ||bdhcpll.cn^
 ||ecma.bdimg.com^
@@ -967,6 +969,7 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
+||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||dm.bytedance.com^
@@ -987,7 +990,7 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||download.caihong.com^
-||gg.caixin.com^
+||apollo.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1452,6 +1455,7 @@
 ||jquery.envi-met.com.cn^
 ||eoyqzzk.cn^
 ||epaes.com.cn^
+||img.eqbyc.com^
 ||lib.eqh5.com^
 ||eavs02.eqifa.com^
 ||eqlidke.cn^
@@ -1750,7 +1754,6 @@
 ||gxhzv.cn^
 ||ctkdouepns.gylmw.cn^
 ||olosuxfp.gylmw.cn^
-||m.gz-bz.cn^
 ||gz-data.com^
 ||share.gzdsw.com^
 ||gzhying1.cn^
@@ -1922,6 +1925,7 @@
 ||api-analytics-cn.huami.com^
 ||api-analytics-in.huami.com^
 ||api-analytics-sg.huami.com^
+||app-analytics.huami.com^
 ||app-analytics-in.huami.com^
 ||app-analytics-ru.huami.com^
 ||app-analytics-sg.huami.com^
@@ -2038,8 +2042,6 @@
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
-||daima.ijq.tv^
-||lm.ijq.tv^
 ||ili100.cn^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -2060,6 +2062,7 @@
 ||inad.com^
 ||dlres.ind9ed.com^
 ||ssp.indexmob.com^
+||appole.indigen.cn^
 ||link.infineon.cn^
 ||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^
@@ -2608,7 +2611,6 @@
 ||lishuaibin.cn^
 ||litchiads.com^
 ||v88.live800.com^
-||aeon.co.jp.ultimac.lkvya.cn^
 ||a.llysc.cn^
 ||bffbdo.lmsae.cn^
 ||lmwmm.com^
@@ -2773,6 +2775,7 @@
 ||gg.miinaa.com^
 ||360down7.miiyun.cn^
 ||mindmanager.cc^
+||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -2906,6 +2909,7 @@
 ||aries.mzres.com^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
+||fp.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
 ||dl.natgo.cn^
 ||nbfieef.cn^
@@ -2944,6 +2948,7 @@
 ||nlyuuy.cn^
 ||nmgyllh.cn^
 ||nmrdnqn.cn^
+||nmyyk.cn^
 ||web.novogene.com^
 ||a.nowscore.com^
 ||z.nowscore.com^
@@ -2972,6 +2977,7 @@
 ||oaclrst.cn^
 ||oadz.com^
 ||analytics.oceanengine.com^
+||nkpyv.ochxa.cn^
 ||oewtuho.cn^
 ||vinted.offer2584.shop^
 ||offerstrack.net^
@@ -3142,7 +3148,6 @@
 ||puqer.cn^
 ||ums.pushpia.cn^
 ||ssp.putaojiu.com^
-||apple.pvxt.net^
 ||dm.pw0.cn^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
@@ -3510,6 +3515,7 @@
 ||s304.cc^
 ||g.s8dj.com^
 ||s981.cc^
+||appole.saccade.cn^
 ||sacre.cn^
 ||404.safedog.cn^
 ||sagetrc.com^
@@ -4054,7 +4060,6 @@
 ||ta.trs.cn^
 ||trunkfish.cn^
 ||trustutn.org^
-||analytics.trustyou.com^
 ||ts166.net^
 ||www.ttyyuuoo.com^
 ||tudou.com^
@@ -4229,7 +4234,6 @@
 ||n-st.vip.com^
 ||ads.vipbaihe.com^
 ||in.vipliangmei.com^
-||ckg.vipyl.com^
 ||smetrics.visitsingapore.com.cn^
 ||bhwkju.vivo.com^
 ||adlog.vivo.com.cn^
@@ -4277,7 +4281,6 @@
 ||vjvj.vj24co.com^
 ||vlgkotr.cn^
 ||vlion.cn^
-||vlwaupf.cn^
 ||vmbzhfh.cn^
 ||service.vmos.cn^
 ||m1.vodjk.com^
@@ -4392,6 +4395,7 @@
 ||opensdk.wlanbanlv.com^
 ||wlhcb.cn^
 ||wmmax.com^
+||bdasd.wmxa.cn^
 ||wn68din.cn^
 ||www.wndlkj.com^
 ||wo1818.cn^
@@ -4889,7 +4893,6 @@
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
 ||zhzzx.com^
-||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
