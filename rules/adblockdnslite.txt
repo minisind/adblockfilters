@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250223095043
-! Last modified: 2025/02/23 09:50:43
-! Blocked domains: 4914
+! Version: 20250223162713
+! Last modified: 2025/02/23 16:27:13
+! Blocked domains: 4917
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -381,7 +381,6 @@
 ||1.95ye.com^
 ||961.com^
 ||11.96131.com.cn^
-||9vzn29.98kk89.com^
 ||whfpbc.99.com.cn^
 ||w18.9939.com^
 ||a1.99933.cn^
@@ -429,7 +428,6 @@
 ||ads-go.adroi.com.cn^
 ||ads360.cn^
 ||adsage.cn^
-||adsage.com^
 ||api.adsdk.adsaide.cn^
 ||adsame.com^
 ||adsmogo.com^
@@ -865,7 +863,6 @@
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
 ||a.baomihua.com^
-||resource.baomihua.com^
 ||bartender.cc^
 ||webpage.batianhu.cn^
 ||baycode.cn^
@@ -988,6 +985,7 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||download.caihong.com^
+||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||api.callget.cn^
 ||smetrics.calvinklein.cn^
@@ -1148,6 +1146,7 @@
 ||n.cosbot.cn^
 ||course-forge.com^
 ||adt.cpatrk.net^
+||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
 ||agapi.cqjjb.cn^
@@ -1952,7 +1951,6 @@
 ||va.huya.com^
 ||ylog.huya.com^
 ||m.hwzgo2.cn^
-||www.hygduz.cn^
 ||hypers.com^
 ||t.hypers.com.cn^
 ||adx.hzbxm.com^
@@ -2290,7 +2288,6 @@
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
-||affiliate.klook.com^
 ||kmgfjc.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmihknj.cn^
@@ -2314,7 +2311,6 @@
 ||kqhowkcpwl.kpuatk.cn^
 ||nzbfmzfg.kpuatk.cn^
 ||pevto.kpuatk.cn^
-||rdgtp.kpuatk.cn^
 ||vbpsiw.kpuatk.cn^
 ||liebao.us-uplive.ks-cdn.com^
 ||slb-p2p.vcloud.ks-live.com^
@@ -2850,6 +2846,7 @@
 ||iuou.myadobe.cn^
 ||s.dd.myapp.com^
 ||mycleanmymac.com^
+||mydati.com^
 ||cdn.adm.myhayo.com^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com^
@@ -2868,6 +2865,9 @@
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||saadsfds7.myshoplaza.com^
+||salewashop-pl.myshoplaza.com^
+||salewashopiing.myshoplaza.com^
+||salewashopping.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -2879,6 +2879,7 @@
 ||aries.mzres.com^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
+||1.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
 ||nbfieef.cn^
 ||nbilaser.com^
@@ -3136,6 +3137,7 @@
 ||qguwoq.cn^
 ||top.h.qhimg.com^
 ||m.qhxcdmfj.cn^
+||qhxtzwf.cn^
 ||qianka.com^
 ||click.qianqian.com^
 ||ttmsg.qianqian.com^
@@ -3515,6 +3517,7 @@
 ||logstat.t.sfht.com^
 ||track.sgdmobile.com^
 ||sglyd.cn^
+||ini.sh-pp.com^
 ||eywvko.shaddy.jp^
 ||js.shangxueba.com^
 ||shankejingling.com^
@@ -3902,6 +3905,7 @@
 ||tongji.techweb.com.cn^
 ||inpost-pl-pacid273jks.tejiamai.top^
 ||teleagrme.cn^
+||js.telega.cn^
 ||telegvim.cn^
 ||telegvpqm.cn^
 ||telepzow.cn^
@@ -4007,10 +4011,10 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||cnzz.trafficmanager.net^
-||status-un.trafficmanager.net^
 ||analysis.tratao.com^
 ||ta.trs.cn^
 ||trustutn.org^
+||analytics.trustyou.com^
 ||ts166.net^
 ||www.ttyyuuoo.com^
 ||tudou.com^
@@ -4279,6 +4283,7 @@
 ||ggw.watertu.com^
 ||bd.watu.cn^
 ||api.anti.wauee.com^
+||wbesryx.cn^
 ||phputils.wc-os.com^
 ||manage.wdfans.cn^
 ||wdswgjn.cn^
@@ -4343,6 +4348,7 @@
 ||wlhcb.cn^
 ||wmmax.com^
 ||bdasd.wmxa.cn^
+||bdjiaoben.wmxa.cn^
 ||wn68din.cn^
 ||www.wndlkj.com^
 ||wo1818.cn^
@@ -4785,7 +4791,6 @@
 ||zegarkirepliki.pl^
 ||zerolcp.cn^
 ||yin1.zgpingshu.com^
-||sp.zhabite.com^
 ||adsin.zhangyoubao.com^
 ||ad.zhangyue.com^
 ||push.zhangyue.com^
@@ -4823,7 +4828,6 @@
 ||jy.zhongxues.com^
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
-||fdfda.zhuzhai.com^
 ||zhzzx.com^
 ||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
@@ -4871,7 +4875,6 @@
 ||r.zlongad.com^
 ||s.zlongad.com^
 ||zmdesf.cn^
-||zmhqhuq.cn^
 ||p.zol-img.com.cn^
 ||pic.zol-img.com.cn^
 ||cpro.zol.com.cn^
