@@ -40,7 +40,6 @@
 1.jiangzheba.com
 1.jiqie.cn
 1.lishibu.com
-1.nanrenwo.net
 1.shopit.cn
 1.sj33.net
 1.tecbbs.com
@@ -106,6 +105,7 @@
 12730450.fls.doubleclick.net
 1314gl.com
 138vps.com
+139520.aioc.qbgxl.com
 1435575.fls.doubleclick.net
 1500020991.vodplayer.wxamedia.com
 15tianqi.com
@@ -150,6 +150,7 @@
 1qingdao.com
 1rtb.com
 1s8pj.cn
+1ting.com
 1wkg.cn
 1ydt.com
 2.haoxue360.com
@@ -312,6 +313,7 @@
 51zhishang.com
 51ztzj.com
 51zxw.net
+520z-2.com
 521000.com
 522.com.cn
 5251.net
@@ -468,6 +470,7 @@
 9012846.fls.doubleclick.net
 91160.com
 911cha.com
+912648.aioc.qbgxl.com
 9140657.fls.doubleclick.net
 9145021.fls.doubleclick.net
 91danji.com
@@ -485,6 +488,7 @@
 95504.net
 95ziyuan.cn
 961.com
+961365.cc
 962.net
 9669.cn
 96weixin.com
@@ -497,8 +501,10 @@
 99lb.net
 99mst.com
 99tianji.com
+9duw.com
 9fum.ifeng.com
 9game.cn
+9ht.com
 9ics.cn
 9ihome.com
 9ist.com
@@ -516,7 +522,6 @@ a.alimama.cn
 a.armystar.com
 a.baidinet.com
 a.baidu.com
-a.baomihua.com
 a.bfking.cn
 a.bshu.com
 a.clickdata.37wan.com
@@ -733,6 +738,7 @@ ad.hr.doubleclick.net
 ad.hu.doubleclick.net
 ad.huajiao.com
 ad.ie.doubleclick.net
+ad.iii.co.uk
 ad.in.doubleclick.net
 ad.it.doubleclick.net
 ad.iwhop.cn
@@ -861,6 +867,7 @@ adim.pinduoduo.com
 adimg.163.com
 adimg.liba.com
 adimg.mobile.sina.cn
+adimg.uve.weibo.com
 adinall.com
 adjb.5nd.com
 adjust.cn
@@ -933,6 +940,7 @@ ads.activepower.net
 ads.alafish.cn
 ads.alibaba.com
 ads.aplus.pptv.com
+ads.cc-dt.com
 ads.ce.cn
 ads.china.com
 ads.cn.miaozhen.com
@@ -1135,7 +1143,6 @@ aeink.com
 aeon.co.jp.playeri.fmkw2w.cn
 aeventlog.beacon.qq.com
 aexception.bugly.qq.com
-afcav.com
 afd.baidu.com
 affiliate.2mdn.net
 afp.alicdn.com
@@ -1816,7 +1823,6 @@ beacons2.gvt2.com
 beacons3.gvt2.com
 beareyes.com.cn
 becode.xiao84.com
-beha.ksmobile.com
 beizi.biz
 bejson.com
 bendibao.com
@@ -1857,6 +1863,7 @@ bid.g.doubleclick.net
 biddingx.com
 big5.china.com.cn
 bigbigwork.com
+bigdata.adups.com
 bigear.cn
 bigpixel.cn
 biketo.com
@@ -2215,6 +2222,7 @@ chbeyond.cn
 cheaa.com
 check-tcp.rayjump.com
 check.fnos.net
+check.rayjump.com
 check02.51y5.net
 chem99.com
 chemdraw.com.cn
@@ -2256,6 +2264,7 @@ chinatruck.org
 chinaxinge.com
 chinayk.com
 chinaz.com
+chineseinla.com
 chinesetoday.cn
 chiphell.com
 chiq-cloud.com
@@ -2301,7 +2310,6 @@ cl-data.ads.heytapmobi.com
 cl2.webterren.com
 classic.39health.com
 clc.chiuhua.com.cn
-clean.adups.com
 clewm.net
 click.ali213.net
 click.alibaba.com
@@ -2490,6 +2498,7 @@ config.mobisage.cn
 config.unityads.unitychina.cn
 config.youzu.com
 configure-tcp.rayjump.com
+configure.rayjump.com
 connect-dre.dbankcloud.cn
 connect-dre.hispace.hicloud.com
 connperf.immomo.com
@@ -2663,10 +2672,17 @@ d1.sina.com.cn
 d1.sinaimg.cn
 d1.yingyongge.com
 d1xz.net
+d2.sina.com.cn
 d2.yingyongge.com
+d3.sina.com.cn
 d3d.3dwwwgame.com
 d3g.qq.com
+d4.sina.com.cn
+d5.sina.com.cn
+d6.sina.com.cn
 d6.sinaimg.cn
+d7.sina.com.cn
+d8.sina.com.cn
 d8.sinaimg.cn
 d9.sina.com.cn
 da-fan-shu.cn
@@ -2695,6 +2711,7 @@ daiyanbao.com
 dajiazhao.com
 dajie.com
 dakawm.cc
+daliantong.com.cn
 dalipan.com
 damai.cn
 dangbei.net
@@ -2785,6 +2802,7 @@ de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.pandora.xiaomi.com
 debug.mssp.adunite.com
+declareembody.cn
 deeplink.locokids.cn
 deliver.kuwo.cn
 delivery-pc.wasu.cn
@@ -3627,6 +3645,7 @@ gfw-sg.tapdb.net
 gfyoyo.adpolestar.net
 gg.0598yu.com
 gg.blueidea.com
+gg.caixin.com
 gg.cs090.com
 gg.meitu.com
 gg.miinaa.com
@@ -3948,7 +3967,6 @@ henan.sina.com.cn
 henan100.com
 hepan.com
 hepuwang.com
-herogame.com
 heshun365.cn
 hexun.com
 hf365.com
@@ -4178,7 +4196,6 @@ i.tddmp.com
 i.tianqi.com
 i.y.qq.com
 i0.letvimg.com
-i0k.cc
 i1.go2yd.com
 i3.letvimg.com
 i3.sinaimg.cn
@@ -4499,7 +4516,6 @@ itsdata.map.baidu.com
 itv.hexun.com
 ityangstudy.cn
 iuou.myadobe.cn
-iuou.ysw365.com
 iv.doubleclick.net
 iviewui.com
 ivnrrkx.cn
@@ -4879,6 +4895,7 @@ l2.l.qq.com
 l7u3kf.cn
 laawmmy.cn
 lady177.com
+lafkp.cn
 lagou.com
 laixi.com
 lancdn.com
@@ -5224,7 +5241,6 @@ m.89kvh.cn
 m.91heima.cn
 m.ad.zhangyue.com
 m.ads.sohu.com
-m.ailezhai.cn
 m.atm.youku.com
 m.aty.snmsohu.aisee.tv
 m.aty.sohu.com
@@ -5242,6 +5258,7 @@ m.gdt.qq.com
 m.gongzhilian.com.cn
 m.guancha.cn
 m.gutousoft.com
+m.gz-bz.cn
 m.hackhome.com
 m.hao123.com
 m.hupu.com
@@ -6455,7 +6472,6 @@ qapm.baidu.com
 qappcenterv6.3g.qq.com
 qbdgame.com
 qc1.cheshipin.com
-qcc.qccgeo.qualcomm.com
 qcc.qualcomm.com
 qccommunity.qcloudimg.com
 qcjycg.com
@@ -6580,7 +6596,6 @@ raddus.bayescom.com
 rainpat.com
 rankhit.china.com
 rapi.cmgadx.com
-rayjump.com
 rayli.adsame.com
 rbioclv.cn
 rbrbr88p.cn
@@ -6976,7 +6991,6 @@ sa1.tuisong.baidu.com
 sa3.tuisong.baidu.com
 sa8.tuisong.baidu.com
 saad.ms.zhangyue.net
-saadsfds7.myshoplaza.com
 sac.net.cn
 sacre.cn
 safe.ucweb.com
@@ -7241,6 +7255,7 @@ show.re.taobao.com
 show.ssports.com
 showguide.cn
 shqdec.com
+shqdown.ggzuhao.com
 shrek.6.cn
 shtatuo.cn
 shuakongbao.com
@@ -7373,6 +7388,8 @@ sojson.com
 soku.com
 solarbe.com
 solutions.refinitiv.cn
+soma-assets.smaato.net
+soma.smaato.net
 somni.aussiespecialist.cn
 somni.australia.cn
 song.fanxing.kugou.com
@@ -7521,12 +7538,14 @@ stat.zol.com.cn
 stat.zuimeitianqi.com
 stat2.openinstall.io
 static-alias-1.360buyimg.com
+static-doubleclick-net.l.google.com
 static-ssl.mediav.com
 static-ssp.yidianzixun.com
 static.2mdn.net
 static.3001.net
 static.adwo.com
 static.app.m.letv.com
+static.appbox.apuslauncher.com
 static.bshare.cn
 static.doubleclick.net
 static.doyouhike.net
@@ -7546,6 +7565,7 @@ static.m.sjzhushou.com
 static.mediav.com
 static.oschina.net
 static.qiyi.com
+static.realme.net
 static.rongkao.com
 static.tieba.baidu.com
 static.uuzu.com
@@ -8147,7 +8167,6 @@ uc.agrantsem.com
 uc.cn
 uc.ucweb.com
 uc123.com
-uc129.com
 uc9.suinidai.com.cn
 uc9.ucweb.com
 ucads.ucweb.com
@@ -8624,6 +8643,7 @@ winwin7.com
 wiseway.com.cn
 wit.qq.com
 wiyun.com
+wj.jiancai365.cn
 wjx.cn
 wk.baidu.com
 wkanx.com
@@ -8667,6 +8687,7 @@ world68.com
 worldwide.sogou.com
 woshipm.com
 woyaoq.com
+woylie.cn
 wpa.b.qq.com
 wpdaxue.com
 wpjam.com
@@ -8918,7 +8939,6 @@ www.whalecloud.com
 www.wistfulness.cn
 www.wjxcdn.com
 www.wmmax.com
-www.wndlkj.com
 www.wo1818.cn
 www.world-flags.cn
 www.wowostar.cn
@@ -9064,6 +9084,7 @@ xitong8.com
 xitonghe.com
 xitongtiandi.net
 xitongzhijia.net
+xiu8.com
 xiushuang.com
 xiuxiu.android.dl.meitu.com
 xiuxiu.mobile.meitudata.com
@@ -9399,6 +9420,7 @@ zkpks.cn
 zlclgzs.cn
 zljnwzp.cn
 zmdesf.cn
+zmhqhuq.cn
 znds.com
 zndsssp.dangbei.net
 znrq.zifwxq.cn
