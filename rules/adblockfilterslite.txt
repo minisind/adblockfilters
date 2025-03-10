@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20250310092509
-! Last modified: 2025/03/10 09:25:09
-! Blocked Filters: 42128
+! Version: 20250310162529
+! Last modified: 2025/03/10 16:25:29
+! Blocked Filters: 42120
 !
 ###AC_ad
 ###AD_160
@@ -22945,8 +22945,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3322.cc###addr
 3322.cc##[onclick*=".gsxzq."]
 33am.cn##.bd_980_90
-3464.com##.CommonBody > .CommonListArea:nth-child(3)
-3464.com##.CommonBody > .CommonListArea:nth-child(3) + .CommonListArea
 36.cn#@#.mainAd
 360.cn###openCenterScreen
 360.cn###weishi-alert
@@ -23403,10 +23401,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 91.com,beihaiting.com,guitarchina.com,hao123.com,site.baidu.com,sojson.com##.banner2
 91.com,hao123.com##.cn_banner
 91.com,hao123.com,site.baidu.com###midline
-911cha.com##.adbox
-911cha.com##.sideqr
-911cha.com##.sideqr_left
-911cha.com##DIV[style^="width:200px;overflow:visiable;position:fixed;"]
 91danji.com###bg_ad
 91danji.com###bg_ad,div.hr.hr48
 91danji.com##.zlVideTowNav
@@ -26605,6 +26599,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||static.doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=cybermania.ws
 @@||static.hdslb.com/ad-images/$image
 @@||static.mediav.com/js/feed_ts.js$domain=jianshu.com
+@@||static.realme.net/v1/knowledge/images/banner.jpg$image
 @@||static.vrv.co^$media,domain=crunchyroll.com
 @@||static.zhihu.com/ad-raccoon-web/$script
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
@@ -28273,6 +28268,7 @@ bitetheass.com,nitroflare-porn.com##center > noindex
 bitporno.*#%#//scriptlet("abort-on-property-read", "_run")
 bitporno.*#%#//scriptlet("abort-on-property-write", "atOptions")
 bitsearch.to,solidtorrents.to#?##alart-box > .view-box:has(> #alart-message > a[target="_blank"])
+bittorrent.am##td[align="center"] > a[rel="nofollow"] > img
 bittorrent.com,whatismybrowser.com,primewire.li##a[href^="https://go.nordvpn.net/aff_c?"]
 bitzite.com,unmineablesbest.com##ins[style^="display:inline-block;width:300px;height:250px;"]
 biz.ifeng.com##.header
@@ -33251,7 +33247,6 @@ magesypro.pro,magesypro.com,magesy.blog,majesy.org,magesy.eu,magesy.fr##div[id][
 magesypro.pro,magesypro.com,magesy.blog,majesy.org,magesy.eu,magesy.fr#%#//scriptlet("abort-current-inline-script", "onload", ".offsetHeight<=0")
 magesypro.pro,magesypro.com,magesy.blog,majesy.org,magesy.eu,magesy.fr#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'document.write')
 magesypro.pro,magesypro.com,magesy.blog,majesy.org,magesy.eu,magesy.fr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-magnet.so###AD
 mahoningmatters.com,codeproject.com,html.net##div[data-type="ad"]
 maiche.com##a.some-img
 maidi.me###diy15
@@ -33633,8 +33628,6 @@ movie2uhd.com,movieshdfree.com##.ad
 movie76.com,wardhanime.net##div[id^="teaser"]
 moviekhhd.biz,webcarstory.com###Ads
 movierulzfree.com,watchmovierulz.co##.ad_watch_now
-movies.meetdownload.com##.col-md-9.justify-content-center
-movies.meetdownload.com#$#body { margin-top: -40px !important; }
 movies4u.*##.popSc
 movies4u.*#%#//scriptlet('abort-on-property-write', 'app_advert')
 movies4u.*#%#//scriptlet('abort-on-property-write', 'checkAdsStatus')
@@ -35242,9 +35235,6 @@ sadnowoczesny.pl,warzywaiowoce.pl,elita-magazyn.pl,profitechnika.pl##.container-
 sadnowoczesny.pl,warzywaiowoce.pl,elita-magazyn.pl,profitechnika.pl##.grid--ad
 sadnowoczesny.pl,warzywaiowoce.pl,elita-magazyn.pl,profitechnika.pl##.position_item_right_01_top
 sadnowoczesny.pl,warzywaiowoce.pl,elita-magazyn.pl,profitechnika.pl##.position_right_01_top
-safelinkmoba.blogspot.com#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
-safelinkmoba.blogspot.com#%#//scriptlet('set-constant', 'safelink.adblock', 'false')
-safelinkmoba.blogspot.com#%#//scriptlet('set-constant', 'safelink.counter', '0')
 sailtool.com##body > div[style^="position:fixed;right:0;top:"]
 sakurajav.com,adult-sex-games.com,hornygamer.com##a[rel*="sponsored"]
 sakurajav.com,sex-jav.com##.videos-list-isHome > #isLatest
@@ -38190,6 +38180,7 @@ zzzyk.com###Tinfo
 ||56img.com^*/search-engine-promotion.js
 ||57577.live^$csp=script-src
 ||576tv.com/Scripts/home.js
+||57sehua.com/template/assets1/js/vue.js
 ||58.com/demand/content?
 ||58.com/ds/tgbrand/*.js
 ||58.com/show/ads?
@@ -39238,6 +39229,7 @@ zzzyk.com###Tinfo
 ||cpnn.com.cn/cpnn_images/diangong.gif
 ||cpplay.com/inc/
 ||cpro.$domain=~baidu.com
+||cpt.9136.com/img/b_special/
 ||cqvip.com/viewserver/ViewAD
 ||cr173.com/js/
 ||cr173.com/show/
@@ -39347,7 +39339,6 @@ zzzyk.com###Tinfo
 ||dianxin.com^$third-party
 ||diaoyu123.com/cpro/show.js
 ||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
-||dig.chouti.com/advert
 ||dimtown.com/adimg/
 ||dingdangsheji.com^*/%E5%9B%BE%E6%80%AA%E5%85%BD
 ||dingdangsheji.com^*/%E7%94%BB%E6%9D%BF-
@@ -39410,6 +39401,7 @@ zzzyk.com###Tinfo
 ||down.tgjkbx.cn/xxjs/$script
 ||downlinker.*/ad_dl.js
 ||downlinker.*/ads.js
+||download.2345.cn/2345yd1/apk/
 ||downxia.com/dgjs/download.js
 ||downxia.com/dgjs/pic/
 ||downyi.com/tg/
@@ -41879,7 +41871,6 @@ zzzyk.com###Tinfo
 ||xhd.cn/topic/leyu-piaofu/
 ||xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
 ||xianzhenyuan.cn/data/attachment^$image
-||xiaobaipan.com/tb.html
 ||xiaobi*.com/layer/layer.js
 ||xiaodutv.com/xda?
 ||xiaohongshu.com/api/collect
@@ -41912,6 +41903,7 @@ zzzyk.com###Tinfo
 ||xitong8.com/theme/default/images/index_13.jpg
 ||xitonghe.com/SkinNew/js/init_g.
 ||xitongzhijia.net/theme/2020/js/10033_
+||xiu8.com/baidu-tieba/*&forum_name=
 ||xizi.com/js/rotator.js
 ||xkd*.com/layer/layer.js
 ||xkyn.com/imgs/js/al.js
