@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250414095740
-! Last modified: 2025/04/14 09:57:40
-! Blocked domains: 6051
+! Version: 20250414163321
+! Last modified: 2025/04/14 16:33:21
+! Blocked domains: 6034
 ! unBlocked domains: 15
 !
 ||kwcdn.000dn.com^
@@ -68,14 +68,12 @@
 ||ir.mail.126.com^
 ||admusicpic.music.126.net^
 ||ads.music.126.net^
-||android.push.126.net^
 ||cms-bucket.ws.126.net^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
 ||img1.126.net^
 ||img3.126.net^
 ||mimg.126.net^
-||news.push.126.net^
 ||pg-ad-b1.ws.126.net^
 ||pg-ad-b2.ws.126.net^
 ||stat.ws.126.net^
@@ -141,7 +139,6 @@
 ||17kxgame.com^
 ||17u.cn^
 ||1999019.com^
-||st.19mi.net^
 ||1buo.icu^
 ||1dki0.icu^
 ||1gmzo.icu^
@@ -427,7 +424,7 @@
 ||7jkzmbd.cn^
 ||7kjiiu.cn^
 ||count.7m.com.cn^
-||user-analysis.7moor.com^
+||7moor.com^
 ||cdn.7nsc.cn^
 ||7r227ut.cn^
 ||13023.url.7wkw.com^
@@ -623,6 +620,7 @@
 ||ljlgf.akgoj.cn^
 ||smetrics.alfalaval.cn^
 ||dsp.ali213.net^
+||pbmp.ali213.net^
 ||web.ali213.net^
 ||umdc.aliapp.org^
 ||login.alibaba-inc.com^
@@ -1291,7 +1289,6 @@
 ||bxqgk.icu^
 ||bxwccii.cn^
 ||byscy.cn^
-||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
 ||s3.bytecdn.cn^
 ||dm.bytedance.com^
 ||location-traceroute-sg.bytedance.com^
@@ -1382,6 +1379,7 @@
 ||atrace.chelaile.net.cn^
 ||logs.chelaile.net.cn^
 ||chemdraw.com.cn^
+||chengzijianzhan.cc^
 ||media.cheshi-img.com^
 ||click.cheshi.com^
 ||media.cheshi.com^
@@ -1785,8 +1783,7 @@
 ||visa-fectwindo.dtfby.cn^
 ||dtoitw.cn^
 ||duapp.com^
-||bu1.duba.com^
-||bu2.duba.com^
+||duba.com^
 ||duba.net^
 ||img.dubyc.com^
 ||dui88.com^
@@ -1820,10 +1817,6 @@
 ||dvzk66.cn^
 ||untitled.dwstatic.com^
 ||2021.dxsbb.com^
-||ak.dxsvr.com^
-||rc.dxsvr.com^
-||tls.dxsvr.com^
-||u.dxsvr.com^
 ||adsdkapi.dxys.pro^
 ||fumiad.dxys.pro^
 ||a.dxzy163.com^
@@ -2028,7 +2021,6 @@
 ||vs.funshion.com^
 ||rt.funshion.net^
 ||stat.funshion.net^
-||collect.futufin.com^
 ||trk.futureelectronics.cn^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
@@ -2052,6 +2044,7 @@
 ||gamerplay67.space^
 ||click.gamersky.com^
 ||ja.gamersky.com^
+||ja1.gamersky.com^
 ||ja2.gamersky.com^
 ||wmbd.gamersky.com^
 ||jiaoben.ganji.cn^
@@ -2294,7 +2287,6 @@
 ||haoweb.top^
 ||haowei.me^
 ||2.haoxue360.com^
-||download.haozip.com^
 ||log.dc.cn.happyelements.com^
 ||hapying.com^
 ||hashnest.com^
@@ -3173,6 +3165,7 @@
 ||mb.lenovomm.com^
 ||prw.lenovomm.com^
 ||pushapi.lenovomm.com^
+||sdac.lenovomm.com^
 ||susapi.lenovomm.com^
 ||uss-pid.lenovomm.com^
 ||lenzmx.com^
@@ -3610,6 +3603,7 @@
 ||sdk.stat.foreign.nearme.com.cn^
 ||stat.browser.nearme.com.cn^
 ||finance.needtoday.com^
+||nejmqianyan.cn^
 ||neolit.cn^
 ||tracking.nesox.com^
 ||sea.net.edu.cn^
@@ -3669,7 +3663,6 @@
 ||synad2.nuffnang.com.cn^
 ||c.nuhcpf.com^
 ||log.nuomi.com^
-||metric.nuonuo.com^
 ||promotionad.nvcam.net^
 ||nvcnet.cn^
 ||ad.nvdvr.cn^
@@ -3703,8 +3696,6 @@
 ||click.oneplus.cn^
 ||open.oneplus.net^
 ||onethingpcs.com^
-||ads.oneway.mobi^
-||tl.oneway.mobi^
 ||onezapp.com^
 ||online.sh.cn^
 ||olpv.onlylady.com^
@@ -3876,8 +3867,6 @@
 ||ptgdb.cn^
 ||ptmabek.cn^
 ||ptmind.com^
-||cdn0.puata.info^
-||ex.puata.info^
 ||pufhzpt.cn^
 ||pig.pupuapi.com^
 ||puqer.cn^
@@ -4052,7 +4041,6 @@
 ||kde.qq.com^
 ||l.qq.com^
 ||lcsdk.3g.qq.com^
-||lives.l.ott.video.qq.com^
 ||log.tbs.qq.com^
 ||log.wtlogin.qq.com^
 ||log1.wtlogin.qq.com^
@@ -4070,10 +4058,8 @@
 ||mqqad.html5.qq.com^
 ||msdk.qq.com^
 ||mtrace.qq.com^
-||news-l.play.ott.video.qq.com^
 ||oimsgad.qq.com^
 ||omgid.qq.com^
-||omgmta.play.ott.video.qq.com^
 ||omgmta1.qq.com^
 ||p.store.qq.com^
 ||p2p.qq.com^
@@ -4401,7 +4387,6 @@
 ||click.uve.mobile.sina.cn^
 ||cre-dp.sina.cn^
 ||cre.dp.sina.cn^
-||dmp.sina.cn^
 ||gk.sina.cn^
 ||log.sina.cn^
 ||log2.sina.cn^
@@ -5041,7 +5026,6 @@
 ||analytics.umetrip.com^
 ||umiwi.com^
 ||umkezbh.cn^
-||stat.umu.cn^
 ||unetall.com^
 ||unionsy.com^
 ||unitworld.net^
@@ -5705,7 +5689,6 @@
 ||js.yjbys.com^
 ||yje912.cn^
 ||yjqczh.cn^
-||mountain.zhidao.baidu.com.cname3466.yjs-cdn.com^
 ||qpb1.sohu.com.cname209.yjs-cdn.com^
 ||ykcjxvg.cn^
 ||l.ykimg.com^
