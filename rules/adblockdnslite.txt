@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250811003117
-! Last modified: 2025/08/11 00:31:17
-! Blocked domains: 6004
+! Version: 20250811102158
+! Last modified: 2025/08/11 10:21:58
+! Blocked domains: 6003
 ! unBlocked domains: 16
 !
 ||kwcscdn.000dn.com^
@@ -293,7 +293,6 @@
 ||4t6u.icu^
 ||www.4wad.com^
 ||1.5000yan.com^
-||tk.504pk.com^
 ||4399stat.5054399.com^
 ||50bang.org^
 ||sccdn.50zera.com^
