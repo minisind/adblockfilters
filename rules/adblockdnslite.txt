@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250821003059
-! Last modified: 2025/08/21 00:30:59
-! Blocked domains: 6151
+! Version: 20250821095638
+! Last modified: 2025/08/21 09:56:38
+! Blocked domains: 6142
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -775,7 +775,6 @@
 ||mobile.appchina.com^
 ||appdriver.cn^
 ||appgift.sinaapp.com^
-||apple.appldf.cn^
 ||iadsdk.apple.com^
 ||securemetrics.apple.com.cn^
 ||fpb1.apple886.com^
@@ -1303,7 +1302,6 @@
 ||metrics.citibank.cn^
 ||smetrics.citibank.cn^
 ||tracker.citicsinfo.com^
-||cj-dj.cn^
 ||3.cjcp.cn^
 ||assets.ckjr001.com^
 ||kpstaticbj.wx.ckjr001.com^
@@ -1398,7 +1396,6 @@
 ||coreldrawchina.com^
 ||n.cosbot.cn^
 ||coyje.cn^
-||m.cqhcsx.cn^
 ||agapi.cqjjb.cn^
 ||cbjg.cqnews.net^
 ||crasheye.cn^
@@ -1645,7 +1642,6 @@
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||drivethelife.com^
-||drstboo.cn^
 ||email-verification-tbw2hsczpwmnv0lvrtfpuq-authentification.on.drv.tw^
 ||drvdn.cn^
 ||dsfh2.icu^
@@ -1884,7 +1880,6 @@
 ||forestseasons.com.cn^
 ||formessengers.com^
 ||fotao9.com^
-||m.fpwg.cn^
 ||fpxvn.cn^
 ||fqbr.cn^
 ||fqdfu.cn^
@@ -4628,7 +4623,6 @@
 ||client-dmp.suishenyun.cn^
 ||log-dmp.suishenyun.cn^
 ||pclog.suishenyun.net^
-||office.sujieo.cn^
 ||apm.suning.cn^
 ||click.suning.cn^
 ||dcbpm.suning.cn^
@@ -4789,7 +4783,6 @@
 ||log.tec73.com^
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
-||www.tecunonline.com^
 ||teddymobile.cn^
 ||telegramcn.co^
 ||telepzow.cn^
@@ -5692,7 +5685,6 @@
 ||xshellcn.com^
 ||rdbd.xsread.com^
 ||yodobashi-oculato.xteotw.cn^
-||m.xthfyp.cn^
 ||xuakn.icu^
 ||a.xue126.com^
 ||xueaaaw.cn^
@@ -5899,7 +5891,6 @@
 ||yoyi.tv^
 ||analysis.yozocloud.cn^
 ||yqlxkzs.cn^
-||yqtpm.cn^
 ||ys630.com^
 ||ad-material.ys7.com^
 ||log.ys7.com^
