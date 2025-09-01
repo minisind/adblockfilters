@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250901002733
-! Last modified: 2025/09/01 00:27:33
-! Blocked domains: 7347
+! Version: 20250901100951
+! Last modified: 2025/09/01 10:09:51
+! Blocked domains: 7330
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -581,7 +581,6 @@
 ||app.aflink.com^
 ||afterdg.cn^
 ||agacloudweg.digital^
-||agapwk.cn^
 ||ad.aginomoto.com^
 ||agitobrsleast.com^
 ||data-reporting.agora.io^
@@ -1949,7 +1948,6 @@
 ||ehmhqcn.cn^
 ||ehoquzi.com^
 ||ehswfanw.cn^
-||firmality.ehwn.cn^
 ||ehxyz.com^
 ||arguear.eiwennf.cn^
 ||ejhahhwq.cn^
@@ -2763,7 +2761,6 @@
 ||ylog.huya.com^
 ||hyfaqee.digital^
 ||hyhamei.top^
-||hyjxld.cn^
 ||hykryc.cn^
 ||hymoloy.com^
 ||hyperetemizor.com^
@@ -3043,11 +3040,9 @@
 ||ixo2ra.top^
 ||ixuvecaci.today^
 ||ixvixly.com^
-||iyffoam.cn^
 ||iygdnm.cn^
 ||iyodvi.cn^
 ||dev.iyuba.cn^
-||izawehj.cn^
 ||izqogb.cn^
 ||adapi.izuiyou.com^
 ||adstat.izuiyou.com^
@@ -3125,7 +3120,6 @@
 ||jdpm.net.cn^
 ||pic.jdunion.com^
 ||jebrpudi.pro^
-||jenspklu.cn^
 ||data.jerkmate.com^
 ||jesgoo.com^
 ||cp.jfcdns.com^
@@ -3177,7 +3171,6 @@
 ||jmag-europe.com^
 ||jmgehn.cn^
 ||www.jmine.cn^
-||jndmsp.cn^
 ||jngyx.cn^
 ||jnsgb.cn^
 ||ub1.job592.com^
@@ -3273,7 +3266,6 @@
 ||kbtxz.com^
 ||kbvwx.info^
 ||kdcxhr.cn^
-||kdfntn.cn^
 ||panda.kdnet.net^
 ||ssp.kdnet.net^
 ||super.kdnet.net^
@@ -3371,7 +3363,6 @@
 ||kmhmyaj.cn^
 ||kmihknj.cn^
 ||kmpxq.cn^
-||kmwjnp.cn^
 ||kxlogo.knet.cn^
 ||rr.knet.cn^
 ||ss.knet.cn^
@@ -3399,8 +3390,6 @@
 ||kqgn.cn^
 ||kqjtj.com^
 ||kqtxdycv.cn^
-||kqwwnvgq.cn^
-||kregkll.cn^
 ||krezusik.info^
 ||marketing.krones.com^
 ||kry1zen.top^
@@ -3788,7 +3777,6 @@
 ||lozmtk.cn^
 ||lpctt.cn^
 ||lpmzt.cn^
-||lrglg.cn^
 ||lrsdh.cn^
 ||lrswl.com^
 ||ny.lshdw.cc^
@@ -3805,7 +3793,6 @@
 ||luquguy.top^
 ||luyouxia.net^
 ||luzyhee.com^
-||lvusya.cn^
 ||lwlqsgr.cn^
 ||lwvrv.icu^
 ||www.lx167.com^
@@ -5809,7 +5796,6 @@
 ||tihadei.com^
 ||tihazoo.top^
 ||tijidevqoge.pro^
-||tiktok-shop.me^
 ||timalorun7.top^
 ||tingyun.com^
 ||tisszhb.cn^
@@ -6393,7 +6379,6 @@
 ||vpadn.com^
 ||vpnih.pro^
 ||vpsgu.cn^
-||vrfdwg.cn^
 ||vsojfsoj.com^
 ||vungle.cn^
 ||vusumiy.info^
@@ -6916,7 +6901,6 @@
 ||static-ssp.yidianzixun.com^
 ||yidop.com^
 ||bd1.yidu.cc^
-||yieaaf.cn^
 ||yihubaiying.com^
 ||yihuifu.cn^
 ||yijifen.com^
@@ -6951,7 +6935,6 @@
 ||ymcdn.cn^
 ||ymima360.com^
 ||ymmobi.com^
-||ymtbknh.cn^
 ||www.ynbojie.com^
 ||yncjsc.cn^
 ||ad123.ynet.com^
