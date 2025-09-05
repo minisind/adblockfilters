@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250905003025
-! Last modified: 2025/09/05 00:30:25
-! Blocked domains: 6188
+! Version: 20250905095114
+! Last modified: 2025/09/05 09:51:14
+! Blocked domains: 6183
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -2224,7 +2224,6 @@
 ||hfctx.cn^
 ||hffxc.com^
 ||hfisngksng.com^
-||hfisnt.cn^
 ||hftxbq.top^
 ||d.hgame.com^
 ||gc.hgame.com^
@@ -3060,7 +3059,6 @@
 ||kwdgudw.cn^
 ||kwpht.cn^
 ||kwqcd.cn^
-||kwxmm.cn^
 ||kwxtdgt.cn^
 ||kwzxrnq.cn^
 ||kxbaywd.cn^
@@ -4175,7 +4173,6 @@
 ||upload-up.qtfm.cn^
 ||qtfoqbf.info^
 ||qtmdzsj.cn^
-||qtnujye.cn^
 ||api.qttunion.com^
 ||aa.qualcomm.cn^
 ||saa.qualcomm.cn^
@@ -4659,7 +4656,6 @@
 ||api.taboola.sve.cc^
 ||svvbrkk.cn^
 ||fr.swissquote.cn^
-||swlpmfrv.cn^
 ||cdn0.sxhjty.cn^
 ||sxjnwkcl.cn^
 ||sxk9m8x.cn^
@@ -5341,7 +5337,6 @@
 ||vlion.cn^
 ||service.vmos.cn^
 ||mfvrqa.vmrcl.cn^
-||zwbyqdo.vmrcl.cn^
 ||vns01444.com^
 ||vns10555.com^
 ||vnuuh.icu^
