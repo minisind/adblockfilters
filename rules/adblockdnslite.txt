@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250906002748
-! Last modified: 2025/09/06 00:27:48
-! Blocked domains: 6215
+! Version: 20250906094744
+! Last modified: 2025/09/06 09:47:44
+! Blocked domains: 6199
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1734,7 +1734,6 @@
 ||eblnzoq.cn^
 ||jb.ecar168.cn^
 ||eccki.cn^
-||ecdyhtt.cn^
 ||ecudsc.cn^
 ||eddcc.icu^
 ||documents-ndiq9jtx0o.edgeone.app^
@@ -1773,7 +1772,6 @@
 ||ejabip.com^
 ||ejfzhh.cn^
 ||ejhahhwq.cn^
-||ekaqvnu.cn^
 ||tr.ekatox.com^
 ||ekzmk.icu^
 ||adashx.ut.ele.me^
@@ -1805,7 +1803,6 @@
 ||m.ercos.cn^
 ||ethan.wang^
 ||marketing.etouch.cn^
-||eudphhn.cn^
 ||euitx.cn^
 ||eujxqgh.cn^
 ||dormaire.euwf.cn^
@@ -1848,7 +1845,6 @@
 ||fca6f.icu^
 ||dsp.fcbox.com^
 ||hugelog.fcbox.com^
-||fcimqqz.cn^
 ||fcqztan.cn^
 ||fefwe334.fun^
 ||1.feihua.com^
@@ -2159,7 +2155,6 @@
 ||haili-spitzer.com^
 ||countly-rel-usa.haimacloud.com^
 ||haixiutv.com^
-||halbnwvx.cn^
 ||mo.haloapps.cn^
 ||haloapps.com^
 ||g.haluoha.com^
@@ -2366,7 +2361,6 @@
 ||hpplay.cn^
 ||hpplay.com.cn^
 ||hpvwdkn.cn^
-||hqdlh.cn^
 ||hqdlhgx.cn^
 ||support.hqts.com^
 ||cdnjs.hro-cosmetics.com^
@@ -2835,7 +2829,6 @@
 ||log.kaayun.com^
 ||hummeanture.kadoctor.cn^
 ||ds1.kaijia.com^
-||kaitbx.cn^
 ||kajicam.com^
 ||short-video.kakamobi.cn^
 ||smart-789.kakamobi.cn^
@@ -2897,7 +2890,6 @@
 ||g.koowo.com^
 ||a.koudai.com^
 ||b.kouke5.com^
-||kpzlhg.cn^
 ||kqgn.cn^
 ||kqjtj.com^
 ||kqtxdycv.cn^
@@ -3500,7 +3492,6 @@
 ||ad2.mobring.co^
 ||ads.mobring.co^
 ||denpne.modelones.com^
-||mofajiang.cn^
 ||bd1.moguvet.com^
 ||ad.api.moji.com^
 ||adlaunch.moji.com^
@@ -3771,7 +3762,6 @@
 ||analytics.partnerboost.com^
 ||bt1.patexplorer.com^
 ||pbaiyho.cn^
-||docs.pbihub.cn^
 ||ipad.pc899.cn^
 ||count.pcauto.com.cn^
 ||counter.pcauto.com.cn^
@@ -3930,7 +3920,6 @@
 ||qdzilh.cn^
 ||qedgcxi.cn^
 ||e-tax-celer.qerdocb.cn^
-||qfmdg.cn^
 ||qfnoyix.cn^
 ||fundation.qfuumddf.cn^
 ||qgg7e.icu^
@@ -3987,7 +3976,6 @@
 ||qiyou.com^
 ||8131.qizhihaotian.cn^
 ||bd888.qizuang.com^
-||qjnjkxm.cn^
 ||qktmwiq.cn^
 ||a6-remad.qm989.com^
 ||t-remad.qm989.com^
@@ -4238,7 +4226,6 @@
 ||api.qvpublish.com^
 ||qvxpr.cn^
 ||qwer220.cn^
-||www.qxcx.cn^
 ||u.qxen.com^
 ||api.ts.feedback.qy.net^
 ||msg.qy.net^
@@ -4299,7 +4286,6 @@
 ||tatracker-us.rivergame.net^
 ||rljjt.cn^
 ||rmzbfum.cn^
-||rnwbim.cn^
 ||tags.roberthalf.cn^
 ||a.rohde-schwarz.com.cn^
 ||metrics.rolex.cn^
@@ -4310,7 +4296,6 @@
 ||rosettahome.cn^
 ||rpahyhn.cn^
 ||rpkcqtf.cn^
-||rretnq.cn^
 ||rsvqlz.cn^
 ||rtbasia.com^
 ||ds.ruanwengfa.com^
@@ -5079,7 +5064,6 @@
 ||uhabo.com^
 ||file.uhsea.com^
 ||uhuf56.fun^
-||uim51.cn^
 ||bdjs.uimg.cn^
 ||ujian.cc^
 ||ujovcb.cn^
