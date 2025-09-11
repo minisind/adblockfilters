@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250911003048
-! Last modified: 2025/09/11 00:30:48
-! Blocked domains: 6079
+! Version: 20250911095159
+! Last modified: 2025/09/11 09:51:59
+! Blocked domains: 6068
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -2154,7 +2154,6 @@
 ||alibaba-inc.kefu.helps.live^
 ||leo.hepsiburada.com^
 ||heshun365.cn^
-||hexkbj.cn^
 ||itv.hexun.com^
 ||utrack.hexun.com^
 ||link.heycloudy.co^
@@ -2688,7 +2687,6 @@
 ||unjs.jfcdns.com^
 ||countrydom.jfuevalz.cn^
 ||jg1668.com^
-||jgitvf.cn^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
 ||ads.jianchiapp.com^
@@ -3014,11 +3012,9 @@
 ||open.kwaizt.com^
 ||kwcmrfb.cn^
 ||kwdgudw.cn^
-||kwpht.cn^
 ||kwqcd.cn^
 ||kwxtdgt.cn^
 ||kwzxrnq.cn^
-||kxfjlpfh.cn^
 ||ky595images.com^
 ||kychq.cn^
 ||kyjlt.cn^
@@ -3062,7 +3058,6 @@
 ||cc.lbesec.com^
 ||cdn1.lbesec.com^
 ||pscdn1.lbesec.com^
-||lbjfc.cn^
 ||lbmdq.cn^
 ||lbprjdi.cn^
 ||lccfjszp.cn^
@@ -3118,7 +3113,6 @@
 ||i0.letvimg.com^
 ||i3.letvimg.com^
 ||lezbrja.cn^
-||lfbhr.cn^
 ||augast.lgwenfd.cn^
 ||lgygy.cn^
 ||lgylj.cn^
@@ -3158,7 +3152,6 @@
 ||lnhsjob.com^
 ||lnk0.com^
 ||lnk8.cn^
-||lnrhd.cn^
 ||lockview.cn^
 ||deeplink.locokids.cn^
 ||webanalytics.logitech.com.cn^
@@ -4528,8 +4521,6 @@
 ||cod.southmoney.com^
 ||tongji.southmoney.com^
 ||spkh.cn^
-||js.spreton.com^
-||y1.spreton.com^
 ||sq59.cn^
 ||srbzw.cn^
 ||sscefsol.com^
@@ -5677,8 +5668,6 @@
 ||img.yangshengtang123.com^
 ||ca.yangshengtv.com^
 ||yangshengzu.cn^
-||js.yanyue.cn^
-||js.yanyue.net^
 ||yaodaipeishi.cn^
 ||cps.yaoqing.com^
 ||yatemy.cn^
