@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250914002518
-! Last modified: 2025/09/14 00:25:18
-! Blocked domains: 6029
+! Version: 20250914095624
+! Last modified: 2025/09/14 09:56:24
+! Blocked domains: 6023
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -758,7 +758,6 @@
 ||anquan.org^
 ||antarctic.com^
 ||yyclz.anthropicbots.cn^
-||zwyexc.anthropicbots.cn^
 ||api.antibanads.com^
 ||anysdk.com^
 ||aoqinglv.cn^
@@ -1215,7 +1214,6 @@
 ||cdnmaster.com^
 ||tvuser-ch.cedock.com^
 ||cengqinglin.cn^
-||cfsrvbu.cn^
 ||update.cg100iii.com^
 ||cgbqrmr.cn^
 ||cgigc.com.cn^
@@ -2770,7 +2768,6 @@
 ||ysw.kffcww.com^
 ||kghrt.cn^
 ||mail.kguapp.com^
-||khtlm.cn^
 ||kingdeecn.cn^
 ||abroad-ad.kingsoft-office-service.com^
 ||cloudservice13.kingsoft-office-service.com^
@@ -3088,7 +3085,6 @@
 ||i0.letvimg.com^
 ||i3.letvimg.com^
 ||lezbrja.cn^
-||augast.lgwenfd.cn^
 ||lgygy.cn^
 ||lgylj.cn^
 ||lhippac.cn^
@@ -3368,7 +3364,6 @@
 ||mkqdj.cn^
 ||emjs.mkzhan.com^
 ||api.mlinks.co^
-||mlkwl.cn^
 ||mlstx.cn^
 ||mlzgazz.cn^
 ||mm1qj.icu^
@@ -5397,7 +5392,6 @@
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
 ||zio.xcar.com.cn^
-||xccjs.cn^
 ||analytics.xdiarys.com^
 ||analytics1.xdiarys.com^
 ||analytics2.xdiarys.com^
