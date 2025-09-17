@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250917003036
-! Last modified: 2025/09/17 00:30:36
-! Blocked domains: 5997
+! Version: 20250917094858
+! Last modified: 2025/09/17 09:48:58
+! Blocked domains: 5992
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -3070,7 +3070,6 @@
 ||dl.liebao.cn^
 ||j.wan.liebao.cn^
 ||liebaovip.com^
-||juvacle.lihuazixun.cn^
 ||ads.linkedin.cn^
 ||linkhaitao.com^
 ||click.linktech.cn^
@@ -3824,7 +3823,6 @@
 ||log.qookkagames.com^
 ||gvideo.qpic.cn^
 ||mmgame.qpic.cn^
-||qpncx.cn^
 ||act.qq.com^
 ||ad.qq.com^
 ||ad.weixin.qq.com^
@@ -4018,7 +4016,6 @@
 ||img2.qqwangming6.com^
 ||qqxi6.icu^
 ||dpvc1.qqyy.com^
-||qsljw.cn^
 ||f.qstatic.com^
 ||qstzar.cn^
 ||cruciical.qswenjx.cn^
@@ -4115,7 +4112,6 @@
 ||tags.roberthalf.cn^
 ||egwlnfujwi.robodelta.cn^
 ||uwtmxlwqf.robodelta.cn^
-||zeiwzlaf.robodelta.cn^
 ||a.rohde-schwarz.com.cn^
 ||metrics.rolex.cn^
 ||midas.rong360.com^
@@ -4720,7 +4716,6 @@
 ||tkfeyc.cn^
 ||livetech.shopee.co.th.tlivecdn.com^
 ||jx.tmall.com^
-||bvflxjoil.tncuio.cn^
 ||tnfno.icu^
 ||pxx.tnklrs.cn^
 ||hbv.tobeacon.cn^
