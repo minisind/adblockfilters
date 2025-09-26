@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250926003039
-! Last modified: 2025/09/26 00:30:39
-! Blocked domains: 6044
+! Version: 20250926095112
+! Last modified: 2025/09/26 09:51:12
+! Blocked domains: 6035
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -13,7 +13,6 @@
 ||kwflvcdn.000dn.com^
 ||www.00772229.com^
 ||00xvppy.cn^
-||0158k.cn^
 ||img.0279.net^
 ||027dir.com^
 ||o.027eat.com^
@@ -136,7 +135,6 @@
 ||st.19mi.net^
 ||1buo.icu^
 ||1dki0.icu^
-||1fa999.cn^
 ||1gmzo.icu^
 ||1gtp.icu^
 ||1jok.icu^
@@ -1707,7 +1705,6 @@
 ||ecudsc.cn^
 ||eddcc.icu^
 ||accgovgetwayuk-70ldffym6a.edgeone.app^
-||etihad-vrs21rnod1.edgeone.app^
 ||flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app^
 ||pdfworknew-6d9lnfzqgb.edgeone.app^
 ||sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app^
@@ -1718,7 +1715,6 @@
 ||webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app^
 ||weerrtyy-i4on0bpgim.edgeone.app^
 ||workinglikeaman-gxg78kvb24.edgeone.app^
-||workinglikeaman-kmd1tnd2ci.edgeone.app^
 ||ediuschina.com^
 ||edurbadowiw.com^
 ||eeryt111.fun^
@@ -1786,7 +1782,6 @@
 ||exevcl.cn^
 ||ad.exyws.org^
 ||qp.ezfxpuo.cn^
-||f109e.xyz^
 ||g.f11w.com^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
@@ -2676,7 +2671,6 @@
 ||jesgoo.com^
 ||jfqua.cn^
 ||jg1668.com^
-||jhlong20.cn^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
 ||ads.jianchiapp.com^
@@ -4164,7 +4158,6 @@
 ||bi-tracker-cn.rivergame.net^
 ||bi-tracker-global.rivergame.net^
 ||tatracker-us.rivergame.net^
-||riyecai.cn^
 ||rmzbfum.cn^
 ||roadqavuxalpra.com^
 ||tags.roberthalf.cn^
@@ -4779,7 +4772,6 @@
 ||tisszhb.cn^
 ||img2.titan007.com^
 ||a.tiyuxiu.com^
-||tjagvvo.cn^
 ||tjnwfjy.cn^
 ||tjqwb.cn^
 ||livetech.shopee.co.th.tlivecdn.com^
@@ -5634,7 +5626,6 @@
 ||bmjs.xzw.com^
 ||y0764.cn^
 ||y0mwy.icu^
-||y1n6a.cn^
 ||y74s.xyz^
 ||y7ts.icu^
 ||yac5t.cn^
