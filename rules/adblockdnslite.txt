@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250927003018
-! Last modified: 2025/09/27 00:30:18
-! Blocked domains: 6053
+! Version: 20250927094632
+! Last modified: 2025/09/27 09:46:32
+! Blocked domains: 6049
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1853,7 +1853,6 @@
 ||adv-sv-stat.focus.cn^
 ||bdu.focus.cn^
 ||pv.focus.cn^
-||herbcomeery.fohcnbw.cn^
 ||foisonad.com^
 ||img.ford.com^
 ||metrics.ford.com^
@@ -1929,6 +1928,7 @@
 ||gggfjeiijw.cn^
 ||zxcs.ggwan.com^
 ||jy.ggweb.net^
+||shqdown.ggzuhao.com^
 ||stats.dmp.ghac.cn^
 ||ghshbt.cn^
 ||ad.partner.gifshow.com^
@@ -3083,7 +3083,6 @@
 ||lezbrja.cn^
 ||lgygy.cn^
 ||lhippac.cn^
-||lhrrs.cn^
 ||engine.liandaomobi.com^
 ||dig.lianjia.com^
 ||lianwangtech.com^
@@ -3185,7 +3184,6 @@
 ||smetrics.mathworks.cn^
 ||ad.mazc.org^
 ||mbai.cn^
-||mbgaf.cn^
 ||mbxsku.cn^
 ||kti.mcjjsdhfg.cn^
 ||mcleaner.cn^
@@ -4873,7 +4871,6 @@
 ||twjsx.cn^
 ||tb.code.twyxi.com^
 ||twzui6.com^
-||whatever.txkntml.cn^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
 ||txscn.cn^
@@ -6049,7 +6046,6 @@
 ||zxiws.cn^
 ||zxrcfw.com^
 ||zxrtb.com^
-||zxy33.cn^
 ||httpdns.zybang.com^
 ||zykwnj.cn^
 ||zyronixnova.icu^
