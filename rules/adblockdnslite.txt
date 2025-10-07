@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251007003058
-! Last modified: 2025/10/07 00:30:58
-! Blocked domains: 7159
+! Version: 20251007094953
+! Last modified: 2025/10/07 09:49:53
+! Blocked domains: 7154
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -685,7 +685,6 @@
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
 ||webcollector-rtm.agora.io^
-||ahlxgcdb.com^
 ||a1.aichagu.com^
 ||brc.aigrammar.net^
 ||brc2.aigrammar.net^
@@ -2975,7 +2974,6 @@
 ||sla-media.immomo.com^
 ||atb-stats-api.imolive.tv^
 ||ads-gdl.imovideo.ru^
-||m.imqkuc.cn^
 ||imtoken.org.cn^
 ||pyk.in-neo.cn^
 ||inad.com^
@@ -3754,7 +3752,7 @@
 ||ssp.maplehaze.cn^
 ||maps-icloud.today^
 ||sdk.markmedia.com.cn^
-||mashangyoushu.cn^
+||www.mashangyoushu.cn^
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
@@ -3893,7 +3891,6 @@
 ||fa.micstatic.com^
 ||pylon.micstatic.com^
 ||midway.run^
-||migrosvip.click^
 ||migroteams.click^
 ||app.log.nf.migu.cn^
 ||uem.migu.cn^
@@ -4199,7 +4196,6 @@
 ||rjs.niuxgame77.com^
 ||njzyjy.cn^
 ||www.nkscdn.com^
-||nlhki1k.cn^
 ||nlyuuy.cn^
 ||nmgyllh.cn^
 ||nmntgd.cn^
@@ -4472,7 +4468,6 @@
 ||counter.pushauction.com^
 ||t.pushauction.com^
 ||ums.pushpia.cn^
-||quiteern.puycril.cn^
 ||pv4b.com^
 ||pvk2e.icu^
 ||log.pwesports.cn^
