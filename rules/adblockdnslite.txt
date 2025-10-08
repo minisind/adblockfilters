@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251008003024
-! Last modified: 2025/10/08 00:30:24
-! Blocked domains: 7131
+! Version: 20251008095000
+! Last modified: 2025/10/08 09:50:00
+! Blocked domains: 7124
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -327,7 +327,6 @@
 ||www.39amjs.com^
 ||classic.39health.com^
 ||39jz.com^
-||www.39tm.cn^
 ||vip.3a9.net^
 ||www.3aym.cn^
 ||jwz.3conline.com^
@@ -918,7 +917,6 @@
 ||adx.apicgate.com^
 ||app-analytics-services.com^
 ||app-measurement.com^
-||app-pro-whatsappweb.com.cn^
 ||mobile.appchina.com^
 ||chassis-cdn.appcloudcdn.com^
 ||appdriver.cn^
@@ -2250,7 +2248,6 @@
 ||a1.firefoxchina.cn^
 ||stat.fishwantg.com^
 ||fiwyjar.cn^
-||fjjts.cn^
 ||fjshxjs.cn^
 ||datareport.fkw.com^
 ||flash.cn^
@@ -2968,7 +2965,6 @@
 ||sla-media.immomo.com^
 ||atb-stats-api.imolive.tv^
 ||ads-gdl.imovideo.ru^
-||imtke.cn^
 ||imtoken.org.cn^
 ||pyk.in-neo.cn^
 ||inad.com^
@@ -4217,7 +4213,6 @@
 ||www.nvshenfan.com^
 ||anews7.nvwu.com^
 ||target.nxp.com.cn^
-||nzjzn.cn^
 ||logserver.nzxcloud.cn^
 ||www522.o0-2.com^
 ||o8zoz.icu^
@@ -4825,7 +4820,6 @@
 ||unet.quark.cn^
 ||irc.qubiankeji.com^
 ||qudajie.com^
-||www2.quectel.com^
 ||optimus-ads-ykx.amap.com.queniuak.com^
 ||lf-headquarters-speed.yhgfb-cn-static.com.1046296236066394.queniubg.com^
 ||v3-reading-ad.qznovelvod.com.230b2a2545cfa773.queniubg.com^
@@ -5031,7 +5025,6 @@
 ||js.shangxueba.com^
 ||shankejingling.com^
 ||sc.shayugg.com^
-||www.shbaoan.cn^
 ||ad-receive.sheincorp.cn^
 ||link.shengcekeji.com^
 ||shengminsy.com^
