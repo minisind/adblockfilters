@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251014003139
-! Last modified: 2025/10/14 00:31:39
-! Blocked domains: 7119
+! Version: 20251014095147
+! Last modified: 2025/10/14 09:51:47
+! Blocked domains: 7112
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -4919,7 +4919,6 @@
 ||nav.cn.ronghub.com^
 ||stats.cn.ronghub.com^
 ||static.rongkao.com^
-||essfication.rpaarit.cn^
 ||rpahyhn.cn^
 ||rpielh.cn^
 ||rpkcqtf.cn^
@@ -4980,7 +4979,6 @@
 ||pay.sboot.cn^
 ||sc126.com^
 ||cdn.scdng.com^
-||smetrics.schindler.cn^
 ||ad.sci99.com^
 ||scjpqut.cn^
 ||sckfcn.cn^
@@ -5169,8 +5167,6 @@
 ||sdk-log.partner.sm.cn^
 ||sugs.m.sm.cn^
 ||video-ad.sm.cn^
-||data.aftersales.smart.com^
-||data.ajo-dev.notifications.future.smart.com^
 ||data.ajo-dev.srv.smart.com^
 ||data.ajo-stage.srv.smart.com^
 ||data.dev-notifications.future.smart.com^
@@ -5640,7 +5636,6 @@
 ||stats.tj.gov.cn^
 ||tjnwfjy.cn^
 ||tjqwb.cn^
-||tkmcag.cn^
 ||ads-vp5-xhscdn.tliveapp.com^
 ||livetech.shopee.co.th.tlivecdn.com^
 ||jx.tmall.com^
@@ -5904,7 +5899,6 @@
 ||vaxgyly.cn^
 ||log.vcgame.cn^
 ||m.vcsoat.cn^
-||vdrth.cn^
 ||vegaschina.cn^
 ||g.analytics.versa-ai.com^
 ||vertu-ad.com^
@@ -6686,7 +6680,6 @@
 ||ue.yeyoucdn.com^
 ||ygwdai.cn^
 ||ygzqlnt.cn^
-||yhbbn.cn^
 ||yhbsk.cn^
 ||adx.yhcplatform.com^
 ||lf-headquarters-speed.yhgfb-cn-static.com^
