@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251015003134
-! Last modified: 2025/10/15 00:31:34
-! Blocked domains: 7063
+! Version: 20251015095447
+! Last modified: 2025/10/15 09:54:47
+! Blocked domains: 7057
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -2408,7 +2408,6 @@
 ||glwxw.net^
 ||gmanhua.com^
 ||cpux.gmud.top^
-||gmupoa.cn^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
 ||gndmnrh.cn^
@@ -4970,7 +4969,6 @@
 ||sfbixfd.cn^
 ||logstat.t.sfht.com^
 ||track.sgdmobile.com^
-||m-sbisec.sgdxbj.cn^
 ||sglyd.cn^
 ||eywvko.shaddy.jp^
 ||shangdu.com^
@@ -6133,7 +6131,6 @@
 ||vzvvifw.cn^
 ||w59g.icu^
 ||zdw.w8.com.cn^
-||wa408.cn^
 ||w.waacorp.com^
 ||ds.waimaofuzhuang.cn^
 ||tongdun-fingerprint.walmartmobile.cn^
@@ -6163,7 +6160,6 @@
 ||bd.watu.cn^
 ||api.anti.wauee.com^
 ||wbmqk.cn^
-||wbvnmod.cn^
 ||manage.wdfans.cn^
 ||wdpkx.cn^
 ||wdswgjn.cn^
@@ -6304,7 +6300,6 @@
 ||wpwpquse.cn^
 ||g.wq96f9.com^
 ||wrating.com^
-||wrnmgz.cn^
 ||wsacjdg.cn^
 ||ad.12306.cn.wscdns.com^
 ||wsds.cn^
@@ -6521,7 +6516,6 @@
 ||xkuiwe.cn^
 ||xkzjq.cn^
 ||adx.xlqeai.com^
-||xmbgb.cn^
 ||pcdn.xmcdn.com^
 ||xmadsdk.cos.tx.xmcdn.com^
 ||z1hihu.xmcimg.com^
