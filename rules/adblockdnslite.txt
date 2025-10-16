@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251016002759
-! Last modified: 2025/10/16 00:27:59
-! Blocked domains: 7090
+! Version: 20251016095335
+! Last modified: 2025/10/16 09:53:35
+! Blocked domains: 7086
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -988,7 +988,6 @@
 ||aykibra.cn^
 ||az5i.icu^
 ||collect.azazie.cn^
-||designwise.aztdfee.cn^
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||b1.b2b168.com^
@@ -1800,6 +1799,7 @@
 ||net.daraz.lk^
 ||net.daraz.pk^
 ||sgtm.darryring.com^
+||clickserve.dartsearch.net^
 ||gate.datacaciques.com^
 ||pv.datacaciques.com^
 ||datamaster.com.cn^
@@ -2011,7 +2011,6 @@
 ||dotcounter.douyutv.com^
 ||dpjzzgw.cn^
 ||drdwy.com^
-||drivethelife.com^
 ||dsfh2.icu^
 ||cdn.dsp.com^
 ||dspunion.com^
@@ -4412,7 +4411,6 @@
 ||prbibo.top^
 ||info.protiviti.com.cn^
 ||cloud2.gsdk.proximabeta.com^
-||psotalnfo.cfd^
 ||dm.pstatp.com^
 ||pb3.pstatp.com^
 ||sf1-pitaya-tos.pstatp.com^
@@ -5360,7 +5358,6 @@
 ||api.taboola.sve.cc^
 ||svvbrkk.cn^
 ||fr.swissquote.cn^
-||ctafhy.swsat.cn^
 ||cdn0.sxhjty.cn^
 ||sxundrh.cn^
 ||sybnzs.cn^
@@ -6201,7 +6198,7 @@
 ||cbdm.weathercn.com^
 ||log-stats.weathercn.com^
 ||zgzxs.weathercn.com^
-||web-wp-whatsappweb.com.cn^
+||www.web-wp-whatsappweb.com.cn^
 ||web3cdn.cn^
 ||webdissector.com^
 ||log.webnovel.com^
@@ -6354,7 +6351,6 @@
 ||wy213.com^
 ||a.wzu.com^
 ||x-steam.com^
-||x59f.xyz^
 ||xa.com^
 ||xa7j.icu^
 ||xazbts.com^
