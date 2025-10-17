@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251017003219
-! Last modified: 2025/10/17 00:32:19
-! Blocked domains: 7071
+! Version: 20251017095237
+! Last modified: 2025/10/17 09:52:37
+! Blocked domains: 7067
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -485,7 +485,6 @@
 ||bdcdncmn-gd.inter.71edge.com^
 ||bdcdncnc.inter.71edge.com^
 ||7299tu75.cc^
-||72qy.cn^
 ||73336zubo25326.com^
 ||www.74955.net^
 ||www.74966.net^
@@ -2177,6 +2176,7 @@
 ||exevcl.cn^
 ||ad.exyws.org^
 ||veepai-device-log.eye4.cn^
+||qp.ezfxpuo.cn^
 ||g.f11w.com^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
@@ -2304,7 +2304,6 @@
 ||ad.fx168api.com^
 ||dms.fx678.com^
 ||a.fxltsbl.com^
-||wap.fxzch.cn^
 ||fy14.cn^
 ||fy60.icu^
 ||simulatelab-datasink.fzzixun.com^
@@ -2833,7 +2832,6 @@
 ||va.huya.com^
 ||ylog.huya.com^
 ||ns1.hwclouds-dns.com^
-||hwjsv.cn^
 ||hxmyzs.cn^
 ||hypers.com^
 ||t.hypers.com.cn^
@@ -4964,7 +4962,6 @@
 ||pay.sboot.cn^
 ||sc126.com^
 ||cdn.scdng.com^
-||monex-co-jp.scegq.cn^
 ||ad.sci99.com^
 ||scjpqut.cn^
 ||sckfcn.cn^
@@ -6143,7 +6140,6 @@
 ||vyukfcv.cn^
 ||vyye.cn^
 ||vzvvifw.cn^
-||w22e.xyz^
 ||w59g.icu^
 ||zdw.w8.com.cn^
 ||wa501.cn^
