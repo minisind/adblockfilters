@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251022003156
-! Last modified: 2025/10/22 00:31:56
-! Blocked domains: 7094
+! Version: 20251022095856
+! Last modified: 2025/10/22 09:58:56
+! Blocked domains: 7070
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -566,7 +566,6 @@
 ||9ics.cn^
 ||adsdk.9imobi.com^
 ||9kh5b.cn^
-||9tdun9zm3.cn^
 ||image.9xsecndns.cn^
 ||9xxy.icu^
 ||a2wx.icu^
@@ -985,7 +984,6 @@
 ||aykibra.cn^
 ||az5i.icu^
 ||collect.azazie.cn^
-||www.azhmo.cn^
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||b1.b2b168.com^
@@ -1941,7 +1939,6 @@
 ||xs.dmzj.com^
 ||dncvj.cn^
 ||dnd2.icu^
-||dnpwt.cn^
 ||sp.dnqc.com^
 ||vhs.wwstat.com.eo.dnse0.com^
 ||ad-static.nxtsun.com.eo.dnse3.com^
@@ -2053,7 +2050,6 @@
 ||dwstat.cn^
 ||untitled.dwstatic.com^
 ||dxpmedia.com^
-||dxpsi.cn^
 ||2021.dxsbb.com^
 ||dxwsty.cn^
 ||adsdkapi.dxys.pro^
@@ -2128,7 +2124,6 @@
 ||ehmhqcn.cn^
 ||ehxyz.com^
 ||tr.ekatox.com^
-||ekgsa.cn^
 ||ekzmk.icu^
 ||adashx.ut.ele.me^
 ||app-monitor.ele.me^
@@ -2510,7 +2505,6 @@
 ||gxgbvmg.cn^
 ||gxhzv.cn^
 ||gxuwz.edu.cn^
-||gyzri.cn^
 ||m.gz-bz.cn^
 ||gz-data.com^
 ||gzcl999.com^
@@ -2633,7 +2627,6 @@
 ||hgjxp.cn^
 ||hgkzl.cn^
 ||hgpbhuj.cn^
-||www3-vpass-jp.hhqzr.cn^
 ||hhttm.top^
 ||sdd.hi1718.com^
 ||adx-dra.op.hicloud.com^
@@ -3517,7 +3510,6 @@
 ||open.kwaizt.com^
 ||kwcmrfb.cn^
 ||kwdgudw.cn^
-||kxbut.cn^
 ||ky595images.com^
 ||kychq.cn^
 ||ad-dumbo-log.kydce.cn^
@@ -3968,7 +3960,6 @@
 ||mlzgazz.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
-||mnfil.cn^
 ||mngjrn.cn^
 ||mnnmnn.com^
 ||mnpbxjq.cn^
@@ -4174,7 +4165,6 @@
 ||jaccs-boxate.nnalyw.cn^
 ||nndzsw1.com^
 ||nnocsin.cn^
-||nnqzy.cn^
 ||ad-ga.nocode.com^
 ||noip.cn^
 ||nouvelles247.com^
@@ -4217,7 +4207,6 @@
 ||oicp.net^
 ||apps5.oingo.com^
 ||ok3lphw.cn^
-||okaow.cn^
 ||okhan.net^
 ||omheth.com^
 ||statistics.one-all.cn^
@@ -4281,7 +4270,6 @@
 ||outin.cn^
 ||ov8ct.icu^
 ||oyhurln.cn^
-||oynos.cn^
 ||ozogame.com^
 ||p2343.com^
 ||p2cdn.com^
@@ -4310,7 +4298,6 @@
 ||count.pcauto.com.cn^
 ||counter.pcauto.com.cn^
 ||ivy.pcauto.com.cn^
-||pcifr.cn^
 ||count5.pconline.com.cn^
 ||imgad0.pconline.com.cn^
 ||ivy.pconline.com.cn^
@@ -4428,7 +4415,6 @@
 ||ptmabek.cn^
 ||ptmind.com^
 ||pufhzpt.cn^
-||pugml.cn^
 ||pulton.info^
 ||pig.pupuapi.com^
 ||puqer.cn^
@@ -4515,7 +4501,6 @@
 ||webstat.qiumibao.com^
 ||qiuxl11.cn^
 ||qiyegongqiu1.qiyegongqiu.com^
-||m.qiyeyou163.cn^
 ||api.cupid.qiyi.com^
 ||data.video.qiyi.com^
 ||meta.video.qiyi.com^
@@ -5179,7 +5164,6 @@
 ||raffle-entry.info.smart.com^
 ||smetrics.future.smart.com^
 ||sms.info.smart.com^
-||smpkw.com^
 ||smucdn.com^
 ||analytics-api.smzdm.com^
 ||eimg.smzdm.com^
@@ -5540,7 +5524,6 @@
 ||teddymobile.cn^
 ||telegramcn.co^
 ||jpz.telegramn.com.cn^
-||telepzow.cn^
 ||teleqpnm.cn^
 ||go.telesafe.cn^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
@@ -5756,7 +5739,6 @@
 ||u5ps5.icu^
 ||u7u9.com^
 ||u7x.cn^
-||uakqz.cn^
 ||log.ubianet.com^
 ||images.service.ubmsinoexpo.com^
 ||ubxqerc.cn^
@@ -5825,7 +5807,6 @@
 ||uemddka.cn^
 ||uenmh.cn^
 ||uerzyr.cn^
-||ufhdw.cn^
 ||ugdtimg.com^
 ||uhabo.com^
 ||file.uhsea.com^
@@ -5892,7 +5873,6 @@
 ||vamaker.com^
 ||collect.vans.com.cn^
 ||vaxgyly.cn^
-||vboqw.cn^
 ||log.vcgame.cn^
 ||vegaschina.cn^
 ||g.analytics.versa-ai.com^
@@ -6130,7 +6110,6 @@
 ||tr-vcode-od.vivoglobal.com^
 ||tr-vcode-or.vivoglobal.com^
 ||finance-ad-center-prd.vivojrkj.com^
-||vlage.cn^
 ||vlion.cn^
 ||dap.vmall.com^
 ||service.vmos.cn^
@@ -6375,7 +6354,6 @@
 ||xdrig.com^
 ||sensors.h5.xed.plus^
 ||sensors.xeknow.com^
-||xfokn.cn^
 ||xftsjv.top^
 ||dt.xfyun.cn^
 ||analytics.xgimi.com^
@@ -6883,7 +6861,6 @@
 ||v3-ad.video.yximgs.com^
 ||ws-p2p-v2.pull.yximgs.com^
 ||ws-p2p.pull.yximgs.com^
-||yxzmr.cn^
 ||cloud-log.yy.com^
 ||gt.yy.com^
 ||httpdns.gslb.yy.com^
@@ -7059,7 +7036,6 @@
 ||adm.zookingsoft.com^
 ||zoosnet.net^
 ||zoossoft.net^
-||www.zqlwo.cn^
 ||zqvhr.cn^
 ||zsjxwj.com^
 ||steam.zssjsq.com^
