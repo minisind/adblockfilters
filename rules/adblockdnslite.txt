@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251103002748
-! Last modified: 2025/11/03 00:27:48
-! Blocked domains: 7146
+! Version: 20251103100315
+! Last modified: 2025/11/03 10:03:15
+! Blocked domains: 7143
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -386,6 +386,7 @@
 ||api-adx.52qumao.com^
 ||adm.52swine.com^
 ||slzs.52xiyou.com^
+||api.52youtu.com^
 ||a.52zxw.com^
 ||53kf.com^
 ||54hm.cn^
@@ -607,7 +608,7 @@
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
 ||ads360.cn^
-||www.adsage.cn^
+||adsage.cn^
 ||adsaide.cn^
 ||adsame.com^
 ||adsmogo.com^
@@ -1362,7 +1363,6 @@
 ||adimage.blm.net^
 ||blsenpg.cn^
 ||gg.blueidea.com^
-||bluemountcapital.cn^
 ||license.bluesoleil.com^
 ||license2.bluesoleil.com^
 ||images.bluetime.com^
@@ -2180,6 +2180,7 @@
 ||ad.exyws.org^
 ||veepai-device-log.eye4.cn^
 ||www3-vpass.ezdtf.cn^
+||qp.ezfxpuo.cn^
 ||g.f11w.com^
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
@@ -2322,7 +2323,6 @@
 ||r01.g1c5.com^
 ||g3user.com^
 ||g41i.icu^
-||g4y7uuk.com^
 ||ky.g66667777.com^
 ||g9hc4.cn^
 ||gainifyads.com^
@@ -2467,6 +2467,7 @@
 ||ssl-google-analytics.l.google.com^
 ||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
+||www-googletagmanager.l.google.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleanalytics.com^
@@ -2791,6 +2792,7 @@
 ||hstpnetwork.com^
 ||g.hsw.cn^
 ||hswfj.cn^
+||hsych.com^
 ||ht55.cn^
 ||htkaoyan.com^
 ||httpdns.pro^
@@ -3021,7 +3023,6 @@
 ||malacca.inveno.com^
 ||zuimeitianqi.inveno.com^
 ||ioiksw.cn^
-||iosyy.cn^
 ||ip193.cn^
 ||c81.ipanocloud.com^
 ||iper2.com^
@@ -4197,6 +4198,7 @@
 ||analytics.nike.com.cn^
 ||nimaxrv.cn^
 ||ninebox.cn^
+||down.nishuoa.com^
 ||nisihu.com.cn^
 ||taobao.niucha.ren^
 ||p.niudashu.com^
@@ -5039,7 +5041,6 @@
 ||ad.sci99.com^
 ||scjpqut.cn^
 ||sckfcn.cn^
-||orthard.sczxbkj.cn^
 ||statscollector.sd-rtn.com^
 ||sdhuawen.cn^
 ||adrs.sdo.com^
@@ -5747,7 +5748,6 @@
 ||tovbus.cn^
 ||tovppl.cn^
 ||towmfs.com^
-||tqeferty33.fun^
 ||track718.net^
 ||trackingio.com^
 ||sentry.trademessenger.com^
@@ -5759,7 +5759,6 @@
 ||telemetry.trae.com.cn^
 ||trafficjam.cn^
 ||analysis.tratao.com^
-||treferty33.fun^
 ||ubt-sin.tripcdn.com^
 ||trpyceq.cn^
 ||m.trust-web3.cn^
@@ -5767,7 +5766,6 @@
 ||trustutn.org^
 ||trustwallllet.cn^
 ||ts166.net^
-||tteferty33.fun^
 ||settings.ttwebview.com^
 ||www.ttyyuuoo.com^
 ||tudou.com^
@@ -5867,7 +5865,6 @@
 ||safe.ucweb.com^
 ||sea.napi.ucweb.com^
 ||sg.napi.ucweb.com^
-||slot.union.ucweb.com^
 ||uc.ucweb.com^
 ||uc9.ucweb.com^
 ||ucads.ucweb.com^
@@ -6509,7 +6506,6 @@
 ||cnbj1.fds.api.xiaomi.com^
 ||controller.india.xiaomi.com^
 ||data.game.xiaomi.com^
-||data.mistat.xiaomi.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
@@ -6873,6 +6869,7 @@
 ||analysis.yozocloud.cn^
 ||ad-material.ys7.com^
 ||adx.ys7.com^
+||log.ys7.com^
 ||stats.ys7.com^
 ||ysdqww.com^
 ||ysjwj.com^
