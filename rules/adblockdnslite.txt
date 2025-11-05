@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251105003144
-! Last modified: 2025/11/05 00:31:44
-! Blocked domains: 7150
+! Version: 20251105095942
+! Last modified: 2025/11/05 09:59:42
+! Blocked domains: 7141
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -388,6 +388,7 @@
 ||api-adx.52qumao.com^
 ||adm.52swine.com^
 ||slzs.52xiyou.com^
+||api.52youtu.com^
 ||a.52zxw.com^
 ||53kf.com^
 ||54hm.cn^
@@ -607,7 +608,7 @@
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
 ||ads360.cn^
-||www.adsage.cn^
+||adsage.cn^
 ||adsaide.cn^
 ||adsame.com^
 ||adsmogo.com^
@@ -1445,7 +1446,6 @@
 ||zc1.campaign-view.com.cn^
 ||count.candou.com^
 ||telemetry.canva.cn^
-||365.505-606-707-808-909.canvbot.cn^
 ||caomeixz7.xyz^
 ||caonimazuzong.com^
 ||cartx.cloud^
@@ -2109,7 +2109,6 @@
 ||earthewndegtheyased.edgeone.app^
 ||hkz2311011313001-l5deuphxox.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
-||outdoor-salmon-qsfnebaofy-amj1y2906x.edgeone.app^
 ||pointball-llvwkkfsoo.edgeone.app^
 ||sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app^
 ||tyrereyyt-6r6jpsvq0z.edgeone.app^
@@ -2466,6 +2465,7 @@
 ||ssl-google-analytics.l.google.com^
 ||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
+||www-googletagmanager.l.google.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleanalytics.com^
@@ -2727,7 +2727,6 @@
 ||smbc-co-jp.hjuce.cn^
 ||www-smbc-co.hjuce.cn^
 ||www-smbc-jp.hjuce.cn^
-||www-smbccard.hjuce.cn^
 ||hkeig.com^
 ||v-vpass-jp.hkhci.cn^
 ||hkkeafj.cn^
@@ -3471,7 +3470,6 @@
 ||pv.kuaizhan.com^
 ||kuaizip.com^
 ||m1.kuanff.com^
-||www-smbc-jp.kueyq.cn^
 ||ads.service.kugou.com^
 ||adservice.kugou.com^
 ||adserviceretry.kugou.com^
@@ -3606,7 +3604,6 @@
 ||cherry.le.com^
 ||stat.le.com^
 ||api.leancloud.cn^
-||leboy10.cn^
 ||trace.ledu.com^
 ||lehaitv.com^
 ||geoip.leigod.com^
@@ -4520,7 +4517,6 @@
 ||qfcdgy.cn^
 ||qfnoyix.cn^
 ||qgg7e.icu^
-||qgwqrf.cn^
 ||qhicumg.cn^
 ||top.h.qhimg.com^
 ||p3.qhimgs0.com^
@@ -4956,7 +4952,6 @@
 ||track.msadcenter.rfjq.com^
 ||rh31.com^
 ||rhinogo.cn^
-||rhohns.cn^
 ||richh.cn^
 ||ad.richmob.cn^
 ||hao.rising.cn^
@@ -5001,7 +4996,6 @@
 ||rvyjbwr.cn^
 ||rvzlobj.cn^
 ||smbc-co-jp.rwygd.cn^
-||www-smbc-co.rxjkh.cn^
 ||rxys.cn^
 ||rzsgxmm.cn^
 ||g.s8dj.com^
@@ -5384,7 +5378,6 @@
 ||tongji.southmoney.com^
 ||forge.speedtest.cn^
 ||spkh.cn^
-||smbc-co-jp.spkyy.cn^
 ||www-smbc-co.spkyy.cn^
 ||www-smbc-jp.spkyy.cn^
 ||www-smbccard.spkyy.cn^
@@ -5865,7 +5858,6 @@
 ||safe.ucweb.com^
 ||sea.napi.ucweb.com^
 ||sg.napi.ucweb.com^
-||slot.union.ucweb.com^
 ||uc.ucweb.com^
 ||uc9.ucweb.com^
 ||ucads.ucweb.com^
@@ -6508,7 +6500,6 @@
 ||cnbj1.fds.api.xiaomi.com^
 ||controller.india.xiaomi.com^
 ||data.game.xiaomi.com^
-||data.mistat.xiaomi.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
