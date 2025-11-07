@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251107003507
-! Last modified: 2025/11/07 00:35:07
-! Blocked domains: 7033
+! Version: 20251107095829
+! Last modified: 2025/11/07 09:58:29
+! Blocked domains: 7029
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -2373,7 +2373,6 @@
 ||sdk.ptqy.gitv.tv^
 ||static.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
-||gjsnr.cn^
 ||50m.gkcyc.com^
 ||gknybkl.cn^
 ||nwww.gkxs.com^
@@ -4183,7 +4182,6 @@
 ||officesoftcn.com^
 ||oicp.net^
 ||apps5.oingo.com^
-||ok3lphw.cn^
 ||okhan.net^
 ||oneapm.com^
 ||onelnk.com^
@@ -6523,7 +6521,6 @@
 ||bchina-1.xsfaya.com^
 ||xshellcn.com^
 ||rdbd.xsread.com^
-||yodobashi-oculato.xteotw.cn^
 ||xtrfr.com^
 ||a.xue126.com^
 ||xueaaaw.cn^
@@ -7029,7 +7026,6 @@
 ||zxrtb.com^
 ||httpdns.zybang.com^
 ||ys.zybest.com^
-||zydzxy.cn^
 ||zygkzytb.cn^
 ||zykwnj.cn^
 ||foreign-ime-ad.zyukj6l.com^
