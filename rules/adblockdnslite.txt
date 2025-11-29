@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251129003233
-! Last modified: 2025/11/29 00:32:33
-! Blocked domains: 7226
+! Version: 20251129095755
+! Last modified: 2025/11/29 09:57:55
+! Blocked domains: 7215
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -1739,7 +1739,6 @@
 ||csgbdv.cn^
 ||csjplatform.com^
 ||cslpf.cn^
-||csvifgx.cn^
 ||ads-marketing-vivofs.vivo.com.cn.ctadns.cn^
 ||ctags.cn^
 ||doubleclick.ctfile.com^
@@ -2439,7 +2438,6 @@
 ||l.glrcy.cn^
 ||glwxw.net^
 ||gmanhua.com^
-||gmtpq.cn^
 ||cpux.gmud.top^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
@@ -2843,7 +2841,6 @@
 ||track.hujiang.com^
 ||trackcommon.hujiang.com^
 ||u8.hujiang.com^
-||huluxia.net^
 ||log.hunantv.com^
 ||huoying666.com^
 ||adx.hupu.com^
@@ -2908,7 +2905,6 @@
 ||ads.icloseli.cn^
 ||iconworkshop.cn^
 ||id6.me^
-||vpass-jp.idnqy.cn^
 ||pub.idqqimg.com^
 ||report.idqqimg.com^
 ||actsdk.idreamsky.com^
@@ -3134,7 +3130,6 @@
 ||j6zh4g0.cn^
 ||jab88.com^
 ||eventlog.jackpot.de^
-||vpass-jp.jalqp.cn^
 ||www3-vpass.jalqp.cn^
 ||s.jandan.com^
 ||a3.jandan.net^
@@ -4507,7 +4502,6 @@
 ||pttrsv-dpd.cfd^
 ||pttrvs-dpd.cfd^
 ||pttrvu-dpd.cfd^
-||pttrzu-dpd.cfd^
 ||pufhzpt.cn^
 ||pulton.info^
 ||pig.pupuapi.com^
@@ -4957,7 +4951,6 @@
 ||rb1hdiqv.cn^
 ||vpass-jp.rbegd.cn^
 ||rbjpti.top^
-||www3-vpass.rbocy.cn^
 ||rcqmvmq.cn^
 ||rcqqlwb.cn^
 ||rdbousn.cn^
@@ -5282,7 +5275,6 @@
 ||eimg.smzdm.com^
 ||res-ga.smzdm.com^
 ||shence-import.smzdm.com^
-||sn79.cn^
 ||errortracking.snapp.site^
 ||push.snappea.com^
 ||sensors.snappea.com^
@@ -5953,7 +5945,6 @@
 ||iosipa.b0.upaiyun.com^
 ||upceshop.cn^
 ||uphzxdv.cn^
-||vpass-jp.upjct.cn^
 ||www3-vpass.upzpq.cn^
 ||adscfg.uqualities.com^
 ||adsoss.uqualities.com^
@@ -6476,8 +6467,6 @@
 ||wxddid.cn^
 ||wxdgut.cn^
 ||wxdqgmr.cn^
-||vpass-jp.wxlchq.cn^
-||vpass-jp.wxyvq.cn^
 ||wy213.com^
 ||a.wzu.com^
 ||x-steam.com^
