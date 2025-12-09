@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251209003609
-! Last modified: 2025/12/09 00:36:09
-! Blocked domains: 7080
+! Version: 20251209100356
+! Last modified: 2025/12/09 10:03:56
+! Blocked domains: 7074
 ! unBlocked domains: 17
 !
 ||kwcdn.000dn.com^
@@ -1649,7 +1649,6 @@
 ||codenow.cn^
 ||reportwest-midas.codmwest.com^
 ||interactivoebrokers-com.coin888.cn^
-||coinbaseb.com.cn^
 ||plausible.coinglass.com^
 ||conn1.coloros.com^
 ||conn2.coloros.com^
@@ -3160,7 +3159,6 @@
 ||ad.jiemoselect.com^
 ||api.jietuhb.com^
 ||jiezoiq.cn^
-||www3-vpass.jigfo.cn^
 ||jiguang.cn^
 ||jihehuaban.com.cn^
 ||target.ads.jihuoniao.com^
@@ -3666,7 +3664,6 @@
 ||lustsexloveclub.vip^
 ||192168.luyouwang.com^
 ||luyouxia.net^
-||tk.lvxrf38.cn^
 ||lwlqsgr.cn^
 ||www.lx167.com^
 ||analytics.ly200.com^
@@ -4424,7 +4421,6 @@
 ||ptengine.cn^
 ||ptmabek.cn^
 ||ptmind.com^
-||ptrrct-dpd.cfd^
 ||ptsrk-dpd.cfd^
 ||ptsrn-dpd.cfd^
 ||pufhzpt.cn^
@@ -6884,7 +6880,6 @@
 ||metrics.yy.com^
 ||stat.game.yy.com^
 ||yylady.cn^
-||www3-vpass.yymuga.cn^
 ||adapi.yynetwk.com^
 ||yystzl.cn^
 ||yznwyng.cn^
@@ -6913,7 +6908,6 @@
 ||zgisp.net^
 ||yin1.zgpingshu.com^
 ||zgwcvx.cn^
-||m.zh-imtoken.org.cn^
 ||adsin.zhangyoubao.com^
 ||push.zhangyue.com^
 ||sys.zhangyue.com^
