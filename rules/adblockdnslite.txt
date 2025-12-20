@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251220003512
-! Last modified: 2025/12/20 00:35:12
-! Blocked domains: 6970
+! Version: 20251220095959
+! Last modified: 2025/12/20 09:59:59
+! Blocked domains: 6964
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -304,7 +304,6 @@
 ||www.39amjs.com^
 ||classic.39health.com^
 ||39jz.com^
-||vip.3a9.net^
 ||www.3aym.cn^
 ||jwz.3conline.com^
 ||fc.3dmgame.com^
@@ -4114,7 +4113,6 @@
 ||marketing.nsfocus.com^
 ||nshvhfw.cn^
 ||ntalker.com^
-||reg.ntcccz.com^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
 ||ads.nubia.com^
@@ -5431,7 +5429,6 @@
 ||tcl-icloudcdn.tclclouds.com^
 ||tlauncher-api.tclclouds.com^
 ||webservice.tclmobile.cn^
-||gemini.tcmmodel.cn^
 ||sg.tdatamaster.com^
 ||site.tdk.cn^
 ||tracking.tdk.cn^
@@ -6505,7 +6502,6 @@
 ||watch.advertising.speed.cdn.vip.xunlei.com^
 ||xlgamebox-youxi.xunlei.com^
 ||youxi.xunlei.com^
-||bbb.xurwd.cn^
 ||xwezch.cn^
 ||xwmr.com.cn^
 ||cc.xwscg.com^
@@ -6584,7 +6580,6 @@
 ||yitongwl.cn^
 ||info.yitsoftware.com^
 ||yiwk.com^
-||yixuecheng.cn^
 ||wr.yiyouliao.com^
 ||js.yjbys.com^
 ||ykcjxvg.cn^
@@ -6803,7 +6798,6 @@
 ||ssp.zf313.com^
 ||zgisp.net^
 ||yin1.zgpingshu.com^
-||zgwcvx.cn^
 ||adsin.zhangyoubao.com^
 ||push.zhangyue.com^
 ||sys.zhangyue.com^
