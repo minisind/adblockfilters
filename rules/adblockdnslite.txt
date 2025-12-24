@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251224003555
-! Last modified: 2025/12/24 00:35:55
-! Blocked domains: 6962
+! Version: 20251224100601
+! Last modified: 2025/12/24 10:06:01
+! Blocked domains: 6958
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1698,7 +1698,6 @@
 ||statistic.csdn.net^
 ||zhannei-dm.csdn.net^
 ||kunpeng-sc.csdnimg.cn^
-||study.csen.org.cn^
 ||csjplatform.com^
 ||cslpf.cn^
 ||ads-marketing-vivofs.vivo.com.cn.ctadns.cn^
@@ -3670,7 +3669,6 @@
 ||smetrics.mathworks.cn^
 ||ad.mazc.org^
 ||mbai.cn^
-||midasbuy-datagokjp.mc.hi.cn^
 ||kti.mcjjsdhfg.cn^
 ||mcleaner.cn^
 ||mdqhyxe.cn^
@@ -4118,7 +4116,6 @@
 ||marketing.nsfocus.com^
 ||nshvhfw.cn^
 ||ntalker.com^
-||reg.ntcccz.com^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
 ||ads.nubia.com^
@@ -6580,7 +6577,6 @@
 ||wr.yiyouliao.com^
 ||js.yjbys.com^
 ||ykcjxvg.cn^
-||fossitive.ykdwqwpd.cn^
 ||g3.ykimg.com^
 ||l.ykimg.com^
 ||ykkbwdf.cn^
