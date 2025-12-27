@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251227003219
-! Last modified: 2025/12/27 00:32:19
-! Blocked domains: 6585
+! Version: 20251227100501
+! Last modified: 2025/12/27 10:05:01
+! Blocked domains: 6581
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1202,7 +1202,6 @@
 ||a.bfking.cn^
 ||bfkq.com^
 ||bfshan.cn^
-||uccard-co.bgeodv.cn^
 ||info.bgi.com^
 ||bhaabom.cn^
 ||bhaoea.cn^
@@ -1345,7 +1344,6 @@
 ||zc1.campaign-view.com.cn^
 ||count.candou.com^
 ||telemetry.canva.cn^
-||365.505-606-707-808-909.canvbot.cn^
 ||caomeixz7.xyz^
 ||caonimazuzong.com^
 ||baidu1.cardbaobao.com^
@@ -3858,7 +3856,6 @@
 ||rjs.niuxgame77.com^
 ||njzyjy.cn^
 ||www.nkscdn.com^
-||nloodt.cn^
 ||nlyuuy.cn^
 ||nmntgd.cn^
 ||nmrdnqn.cn^
@@ -5801,7 +5798,6 @@
 ||whaee.com^
 ||whaleclean.cn^
 ||www.whalecloud.com^
-||whatsappwb.com.cn^
 ||whyfate.cn^
 ||whytd.com^
 ||log.wifi.com^
