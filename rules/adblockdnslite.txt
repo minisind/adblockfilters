@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260105003243
-! Last modified: 2026/01/05 00:32:43
-! Blocked domains: 6602
+! Version: 20260105102659
+! Last modified: 2026/01/05 10:26:59
+! Blocked domains: 6597
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -1273,7 +1273,6 @@
 ||bootcss.com^
 ||vstat.borderlessbd.com^
 ||noyvyv.bosonshop.com^
-||bot-whatsapp.com.cn^
 ||boyidianqi.com.cn^
 ||bpztsxx.com^
 ||bqdhrr.top^
@@ -1562,7 +1561,6 @@
 ||gg.cs090.com^
 ||csaimall.com^
 ||csbew.com^
-||www3-vpass.cscic.cn^
 ||ads.csdn.net^
 ||eva2.csdn.net^
 ||event.csdn.net^
@@ -2065,7 +2063,6 @@
 ||fotao9.com^
 ||ad.foxitreader.cn^
 ||file.foxitreader.cn^
-||t-ttb11www.foyrhb.cn^
 ||fqbr.cn^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||log3-applog-hl.fqnovel.com^
@@ -2080,7 +2077,6 @@
 ||rtlog5-applog-lf.fqnovel.com^
 ||rtlog5-applog-lq.fqnovel.com^
 ||fragpunk.com^
-||aquproof.frgcd.cn^
 ||fugetech.com^
 ||fujincenter.com^
 ||adm.funshion.com^
@@ -3883,7 +3879,6 @@
 ||metric.nuonuo.com^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
-||www.nvi-whatsapp.com.cn^
 ||www.nvshenfan.com^
 ||anews7.nvwu.com^
 ||target.nxp.com.cn^
@@ -3973,7 +3968,6 @@
 ||api-access.pangolin-sdk-toutiao4.com^
 ||papapa.tv^
 ||ads-monitoring.papegames.com^
-||parking-pcnhm.cn^
 ||partnerboost.com^
 ||passionsex.vip^
 ||bt1.patexplorer.com^
@@ -6457,6 +6451,7 @@
 ||zhflodsix.cn^
 ||zhidian3g.cn^
 ||pv.zhiding.cn^
+||zhigao5191.com^
 ||adstatic.zhihu.com^
 ||apm.zhihu.com^
 ||appcloud2.zhihu.com^
