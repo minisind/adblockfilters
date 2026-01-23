@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260123004303
-! Last modified: 2026/01/23 00:43:03
-! Blocked domains: 6487
+! Version: 20260123101208
+! Last modified: 2026/01/23 10:12:08
+! Blocked domains: 6483
 ! unBlocked domains: 16
 !
 ||www.00772229.com^
@@ -1707,8 +1707,6 @@
 ||trackerfeed.ddxq.mobi^
 ||ad.dedecms.com^
 ||sm.dell.com^
-||gemini.denganliang.com^
-||denglu-whatsappweb.com.cn^
 ||www.destinationurl.com^
 ||msz3.destinia.cn^
 ||api.dewmobile.net^
@@ -3722,7 +3720,6 @@
 ||naljjd.top^
 ||nalook.com^
 ||nasimobi.com^
-||nasrrbl.cn^
 ||newsrank1.nate.com^
 ||dl.natgo.cn^
 ||tr.email.nauticexpo.com^
@@ -5116,7 +5113,6 @@
 ||adx-bid.tianzhuobj.com^
 ||smetrics.tiffany.cn^
 ||tikz.cn^
-||login.timlr.cn^
 ||tingyun.com^
 ||img2.titan007.com^
 ||a.tiyuxiu.com^
