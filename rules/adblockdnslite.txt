@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260128003847
-! Last modified: 2026/01/28 00:38:47
-! Blocked domains: 6583
+! Version: 20260128102046
+! Last modified: 2026/01/28 10:20:46
+! Blocked domains: 6575
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -328,7 +328,6 @@
 ||web.51fishplace.com^
 ||trace.51jingying.com^
 ||scdata.51job.com^
-||m1.51kaowang.com^
 ||51link.com^
 ||a1.51shiti.cn^
 ||51taifu.com^
@@ -1251,8 +1250,6 @@
 ||images.bluetime.com^
 ||fpbbdx1.bmcx.com^
 ||bmgc.edu.bd^
-||77552354xyz.imtoken1.bmxuij.cn^
-||msezkhjf.imtoken.bmxuij.cn^
 ||as.boc.cn^
 ||jf365.boc.cn^
 ||metrics.boehringer-ingelheim.cn^
@@ -1622,7 +1619,6 @@
 ||net.daraz.lk^
 ||net.daraz.pk^
 ||sgtm.darryring.com^
-||clickserve.dartsearch.net^
 ||gate.datacaciques.com^
 ||pv.datacaciques.com^
 ||datamaster.com.cn^
@@ -1815,6 +1811,7 @@
 ||dpjzzgw.cn^
 ||www.dqpasa.cn^
 ||drdwy.com^
+||drivethelife.com^
 ||cdn.dsp.com^
 ||dspunion.com^
 ||analytics.dsyqt.com^
@@ -1897,7 +1894,6 @@
 ||chrisbenoitkane.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
 ||earthewndegtheyased.edgeone.app^
-||fascinating-apricot-y5g8i3kjes.edgeone.app^
 ||hkz2311011313001-l5deuphxox.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||mhsappsignin-j1oq4zb0hi.edgeone.app^
@@ -2030,7 +2026,6 @@
 ||fiwyjar.cn^
 ||fjshxjs.cn^
 ||fjsytjs.cn^
-||apple.fkfgmo.cn^
 ||datareport.fkw.com^
 ||flash.cn^
 ||flashjoin.net^
@@ -2933,7 +2928,6 @@
 ||fpb1.jsq886.com^
 ||jszctech.com^
 ||lm10111.jtrincc.cn^
-||scribtownot.jujwk.cn^
 ||junshi8181.com^
 ||y1.junshitt.com^
 ||css.juqingba.cn^
@@ -4162,7 +4156,6 @@
 ||logger.qmai.cn^
 ||darb.qmobilityse.cn^
 ||darb.qmobilitysi.cn^
-||darb.qmobilityso.cn^
 ||darb.qmobilitysp.cn^
 ||darb.qmobilitysr.cn^
 ||darb.qmobilityst.cn^
@@ -6052,7 +6045,6 @@
 ||xiyouence.com^
 ||app.xizi.com^
 ||xjrvwz.com^
-||xjsejjb.cn^
 ||xkmwxwy.cn^
 ||xkzjq.cn^
 ||pcdn.xmcdn.com^
